@@ -39,7 +39,7 @@ class TestProductConsolidator(TestCase):
         self.assertEqual(item, product_consolidator.pre_shaves[item.brand][item.model])
 
     def set_up_mock(self):
-        product_consolidator = ProductConsolidator
+        product_consolidator = ProductConsolidator()
         product_consolidator.__add_item_to_map__ = MagicMock(return_value=True)
         return product_consolidator
 
@@ -85,8 +85,15 @@ class TestProductConsolidator(TestCase):
         product_consolidator.add_after_shave(after_shave)
         product_consolidator.__add_item_to_map__.assert_called_with(after_shave, product_consolidator.after_shaves)
 
+    def test_eq_same_instance(self):
+        product_consolidator = ProductConsolidator()
+        self.assertEqual(product_consolidator, product_consolidator)
+
+    def test_eq_different_types(self):
+        self.assertNotEqual(ProductConsolidator(), Brush())
+
     def create_test_product_consolidator(self):
-        product_consolidator = ProductConsolidator
+        product_consolidator = ProductConsolidator()
 
         pre_shave_1 = PreShave("Preshave 1 brand", "Preshave 1 model")
         product_consolidator.add_pre_shave(pre_shave_1)
@@ -131,7 +138,47 @@ class TestProductConsolidator(TestCase):
 
         return product_consolidator
 
-    product_consolidator_json_string = "{\"after_shaves\": {\"AfterShave 1 brand\": {\"AfterShave 1 model\": {\"brand\": \"AfterShave 1 brand\", \"model\": \"AfterShave 1 model\"}}}}"
+    product_consolidator_json_string = '{"after_shaves":{"AfterShave 1 brand":{"AfterShave 1 model":{"brand":"' \
+                                       'AfterShave 1 brand","model":"AfterShave 1 model"}}},"blades":{"Blade 1 brand"' \
+                                       ':{"Blade 1 model":{"brand":"Blade 1 brand","model":"Blade 1 model"},"Blade 2' \
+                                       ' model":{"brand":"Blade 1 brand","model":"Blade 2 model"},"Blade 5 model":{' \
+                                       '"brand":"Blade 1 brand","model":"Blade 5 model"}},"Blade 3 brand":{"Blade 3' \
+                                       ' model":{"brand":"Blade 3 brand","model":"Blade 3 model"}},"Blade 4 brand":{' \
+                                       '"Blade 4 model":{"brand":"Blade 4 brand","model":"Blade 4 model"}}},"brushes"' \
+                                       ':{"brush brand":{"brush model":{"brand":"brush brand","fiber":"Boar",' \
+                                       '"knot_size":"25mm","model":"brush model"}}},"post_shaves":{"Post Shave 1 ' \
+                                       'brand":{"Post Shave 1 model":{"brand":"Post Shave 1 brand","model":"Post ' \
+                                       'Shave 1 model"}},"Post Shave 2 brand":{"Post Shave 2 model":{"brand":"Post ' \
+                                       'Shave 2 brand","model":"Post Shave 2 model"}}},"pre_shaves":{"Preshave 1 ' \
+                                       'brand":{"Preshave 1 model":{"brand":"Preshave 1 brand","model":"Preshave 1 ' \
+                                       'model"}},"Preshave 2 brand":{"Preshave 2 model":{"brand":"Preshave 2 brand",' \
+                                       '"model":"Preshave 2 model"},"Preshave 3 model":{"brand":"Preshave 2 brand",' \
+                                       '"model":"Preshave 3 model"}}},"razors":{"Razor 1 brand":{"Razor 1 model":{' \
+                                       '"brand":"Razor 1 brand","is_adjustable":false,"model":"Razor 1 model","' \
+                                       'razor_type":"DE","uses_blade":true}},"Razor 2 brand":{"Razor 2 model":{' \
+                                       '"brand":"Razor 2 brand","is_adjustable":false,"model":"Razor 2 model",' \
+                                       '"razor_type":"Straight Blade","uses_blade":false}}},"soaps":{"Soap 1 brand":' \
+                                       '{"Soap 1 model":{"brand":"Soap 1 brand","model":"Soap 1 model"},"Soap 2 ' \
+                                       'model":{"brand":"Soap 1 brand","model":"Soap 2 model"},"Soap 3 model":{' \
+                                       '"brand":"Soap 1 brand","model":"Soap 3 model"}}}}'
+
+    def test_eq_same_instance(self):
+        product_consolidator = ProductConsolidator()
+        self.assertEqual(product_consolidator, product_consolidator)
+
+    def test_eq_different_types(self):
+        self.assertNotEqual(ProductConsolidator(), Brush())
+
+    def test_eq_equivalent_instances(self):
+        compiler1 = self.create_test_product_consolidator()
+        compiler2 = self.create_test_product_consolidator()
+        self.assertEqual(compiler1, compiler2)
+
+    def test_eq_equivalent_instances(self):
+        compiler1 = self.create_test_product_consolidator()
+        compiler2 = self.create_test_product_consolidator()
+        compiler2.pre_shaves = {}
+        self.assertNotEqual(compiler1, compiler2)
 
     def test_to_JSON(self):
         product_consolidator = self.create_test_product_consolidator()
@@ -140,4 +187,5 @@ class TestProductConsolidator(TestCase):
 
     def test_from_JSON(self):
         product_consolidator = ProductConsolidator.from_json(self.product_consolidator_json_string)
-        self.assertEquals(product_consolidator, self.create_test_product_consolidator())
+        reference_consolidator = self.create_test_product_consolidator()
+        self.assertEquals(product_consolidator, reference_consolidator)
