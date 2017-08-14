@@ -93,6 +93,4 @@ class ProductConsolidator:
 
     @staticmethod
     def from_json(json_string):
-        dct = json.loads(json_string, object_pairs_hook=dict)
-        product_consolidator = ProductConsolidator.payload_hook(dct)
-        return product_consolidator
+        return ProductConsolidator.payload_hook(json.loads(json_string, object_pairs_hook=dict))
