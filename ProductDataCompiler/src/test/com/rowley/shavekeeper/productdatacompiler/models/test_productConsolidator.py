@@ -174,7 +174,7 @@ class TestProductConsolidator(TestCase):
         compiler2 = self.create_test_product_consolidator()
         self.assertEqual(compiler1, compiler2)
 
-    def test_eq_equivalent_instances(self):
+    def test_eq_non_equivalent_instances(self):
         compiler1 = self.create_test_product_consolidator()
         compiler2 = self.create_test_product_consolidator()
         compiler2.pre_shaves = {}

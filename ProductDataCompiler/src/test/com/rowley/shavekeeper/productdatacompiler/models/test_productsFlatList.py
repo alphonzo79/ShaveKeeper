@@ -124,5 +124,4 @@ class TestProductsFlatList(TestCase):
     def test_to_json(self):
         product_consolidator = self.create_test_product_consolidator()
         product_flat_list = ProductsFlatList(product_consolidator)
-        print product_flat_list.to_json()
         self.assertEqual(self.product_flat_list_json, product_flat_list.to_json())
