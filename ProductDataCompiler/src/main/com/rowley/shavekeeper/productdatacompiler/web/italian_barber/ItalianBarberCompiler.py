@@ -23,7 +23,7 @@ def handle_brush_data(manufacturer, model, product_page, consolidator):
 
 
 def handle_razor_data_safety(manufacturer, model, product_page, consolidator):
-    consolidator.add_razor(Razor(manufacturer, model, "DE", True, model.contains("Adjustable")))
+    consolidator.add_razor(Razor(manufacturer, model, "DE", True, "Adjustable" in model))
 
 
 def handle_razor_data_straight(manufacturer, model, product_page, consolidator):
@@ -31,6 +31,13 @@ def handle_razor_data_straight(manufacturer, model, product_page, consolidator):
     razor_type = "Straight-Edge"
     uses_blade = False
     consolidator.add_razor(Razor(manufacturer, model, razor_type, uses_blade, False))
+
+
+def handle_feather_artist_club(manufacturer, model, product_page, consolidator):
+    if "Blades" in model:
+        consolidator.add_blade(Blade(manufacturer, model))
+    else:
+        consolidator.add_razor(Razor(manufacturer, model, "Straight-Edge", True, False))
 
 
 def handle_blade_data(manufacturer, model, product_page, consolidator):
@@ -47,9 +54,13 @@ def handle_aftershave_data(manufacturer, model, product_page, consolidator):
 
 def load_page(url):
     headers = {'User-Agent': 'Mozilla 5.10'}
-    request = urllib2.Request(url, None, headers)
-    response = urllib2.urlopen(request)
-    return BeautifulSoup(response.read(), 'html.parser')
+    try:
+        request = urllib2.Request(url, None, headers)
+        response = urllib2.urlopen(request)
+        return BeautifulSoup(response.read(), 'html.parser')
+    except urllib2.HTTPError as e:
+        print e.code + " ::: " + url
+        return None
 
 
 def pull_urls_from_page(page):
@@ -62,10 +73,11 @@ def pull_urls_from_page(page):
 
 def read_product(url, consolidator, add_func):
     product_page = load_page("https://www.italianbarber.com" + url)
-    manufacturer = product_page.find("div", {"id": "tbs1"}).text.strip()
-    model = product_page.find("div", {"class": "product-header"}).text
-    model = model.replace(manufacturer + " ", "").strip()
-    add_func(manufacturer, model, product_page, consolidator)
+    if product_page is not None:
+        manufacturer = product_page.find("div", {"id": "tbs1"}).text.strip()
+        model = product_page.find("div", {"class": "product-header"}).text
+        model = model.replace(manufacturer + " ", "").strip()
+        add_func(manufacturer, model, product_page, consolidator)
 
 
 def check_for_next(page):
@@ -89,7 +101,7 @@ def handle_product_type(url, consolidator, add_func):
         time.sleep(2)
 
     next_link = check_for_next(page)
-    if next_link is not None and not next_link.contains("page=10"):
+    if next_link is not None:
         handle_product_type("https://www.italianbarber.com" + next_link, consolidator, add_func)
 
 
@@ -105,18 +117,19 @@ def compile_italian_barber():
     # Soaps
     # handle_product_type(
     #     "https://www.italianbarber.com/collections/brushless-creams-gels", product_consolidator, handle_soap_data)
-    handle_product_type(
-        "https://www.italianbarber.com/collections/creams-soaps", product_consolidator, handle_soap_data)
+    # handle_product_type(
+    #     "https://www.italianbarber.com/collections/creams-soaps", product_consolidator, handle_soap_data)
 
     # Brushes
-    # handle_product_type(
-    #     "https://www.italianbarber.com/collections/brushes/brushes", product_consolidator, handle_brush_data)
-    # handle_product_type(
-    #     "https://www.italianbarber.com/collections/brushes/brushes-vegan-synthetic",
-    #     product_consolidator, handle_brush_data)
-    # handle_product_type(
-    #     "https://www.italianbarber.com/collections/brushes-vegan-synthetic", product_consolidator, handle_brush_data)
+    handle_product_type(
+        "https://www.italianbarber.com/collections/brushes/brushes", product_consolidator, handle_brush_data)
+    handle_product_type(
+        "https://www.italianbarber.com/collections/brushes/brushes-vegan-synthetic",
+        product_consolidator, handle_brush_data)
+    handle_product_type(
+        "https://www.italianbarber.com/collections/brushes-vegan-synthetic", product_consolidator, handle_brush_data)
 
+    # todo done with brushes. Start with Razors
     # Safety Razors
     # handle_product_type(
     #     "https://www.italianbarber.com/collections/safety-razors/safety-razors",
@@ -125,7 +138,11 @@ def compile_italian_barber():
     # Straight Razors
     # handle_product_type(
     #     "https://www.italianbarber.com/collections/straight-razors", product_consolidator, handle_razor_data_straight)
-    # todo add the feather stuff(?)
+
+    # Feather Artist Club
+    # handle_product_type(
+    #     "https://www.italianbarber.com/collections/feather-artist-club-blades",
+    #     product_consolidator, handle_feather_artist_club)
 
     # Blades
     # handle_product_type(
