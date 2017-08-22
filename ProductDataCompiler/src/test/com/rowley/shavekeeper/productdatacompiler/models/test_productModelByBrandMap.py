@@ -34,7 +34,7 @@ class TestProductModelByBrandMap(TestCase):
         soap_3 = Soap(self.brand_one, "Soap 3 model")
         product_consolidator.add_soap(soap_3)
 
-        brush = Brush(self.brand_one, "brush model", "25mm", "Boar")
+        brush = Brush(self.brand_one, "brush model")
         product_consolidator.add_brush(brush)
 
         razor_1 = Razor(self.brand_one, "Razor 1 model", "DE", True, False)

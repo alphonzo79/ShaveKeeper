@@ -22,13 +22,9 @@ class Soap(ItemBase):
 
 
 class Brush(ItemBase):
-    knot_size = str
-    fiber = str
 
-    def __init__(self, brand=str, model=str, knot_size=str, fiber=str):
+    def __init__(self, brand=str, model=str):
         ItemBase.__init__(self, brand, model)
-        self.knot_size = knot_size
-        self.fiber = fiber
 
 
 class Razor(ItemBase):

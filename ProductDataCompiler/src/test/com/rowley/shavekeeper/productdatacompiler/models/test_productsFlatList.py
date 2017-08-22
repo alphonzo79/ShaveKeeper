@@ -33,7 +33,7 @@ class TestProductsFlatList(TestCase):
         soap_3 = Soap("Soap 1 brand", "Soap 3 model")
         product_consolidator.add_soap(soap_3)
 
-        brush = Brush("brush brand", "brush model", "25mm", "Boar")
+        brush = Brush("brush brand", "brush model")
         product_consolidator.add_brush(brush)
 
         razor_1 = Razor("Razor 1 brand", "Razor 1 model", "DE", True, False)
@@ -110,7 +110,7 @@ class TestProductsFlatList(TestCase):
                              '[{"brand":"Blade 4 brand","model":"Blade 4 model"},{"brand":"Blade 1 brand","model":' \
                              '"Blade 1 model"},{"brand":"Blade 1 brand","model":"Blade 5 model"},{"brand":"Blade 1 ' \
                              'brand","model":"Blade 2 model"},{"brand":"Blade 3 brand","model":"Blade 3 model"}],' \
-                             '"brushes":[{"brand":"brush brand","fiber":"Boar","knot_size":"25mm","model":"brush ' \
+                             '"brushes":[{"brand":"brush brand","model":"brush ' \
                              'model"}],"post_shaves":[{"brand":"Post Shave 2 brand","model":"Post Shave 2 model"},{' \
                              '"brand":"Post Shave 1 brand","model":"Post Shave 1 model"}],"pre_shaves":[{"brand":' \
                              '"Preshave 2 brand","model":"Preshave 3 model"},{"brand":"Preshave 2 brand","model":' \

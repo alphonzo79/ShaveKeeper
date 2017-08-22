@@ -109,7 +109,7 @@ class TestProductConsolidator(TestCase):
         soap_3 = Soap("Soap 1 brand", "Soap 3 model")
         product_consolidator.add_soap(soap_3)
 
-        brush = Brush("brush brand", "brush model", "25mm", "Boar")
+        brush = Brush("brush brand", "brush model")
         product_consolidator.add_brush(brush)
 
         razor_1 = Razor("Razor 1 brand", "Razor 1 model", "DE", True, False)
@@ -145,8 +145,8 @@ class TestProductConsolidator(TestCase):
                                        '"brand":"Blade 1 brand","model":"Blade 5 model"}},"Blade 3 brand":{"Blade 3' \
                                        ' model":{"brand":"Blade 3 brand","model":"Blade 3 model"}},"Blade 4 brand":{' \
                                        '"Blade 4 model":{"brand":"Blade 4 brand","model":"Blade 4 model"}}},"brushes"' \
-                                       ':{"brush brand":{"brush model":{"brand":"brush brand","fiber":"Boar",' \
-                                       '"knot_size":"25mm","model":"brush model"}}},"post_shaves":{"Post Shave 1 ' \
+                                       ':{"brush brand":{"brush model":{"brand":"brush brand",' \
+                                       '"model":"brush model"}}},"post_shaves":{"Post Shave 1 ' \
                                        'brand":{"Post Shave 1 model":{"brand":"Post Shave 1 brand","model":"Post ' \
                                        'Shave 1 model"}},"Post Shave 2 brand":{"Post Shave 2 model":{"brand":"Post ' \
                                        'Shave 2 brand","model":"Post Shave 2 model"}}},"pre_shaves":{"Preshave 1 ' \
