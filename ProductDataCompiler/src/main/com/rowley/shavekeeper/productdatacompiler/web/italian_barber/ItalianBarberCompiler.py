@@ -49,7 +49,10 @@ def handle_postshave_data(manufacturer, model, product_page, consolidator):
 
 
 def handle_aftershave_data(manufacturer, model, product_page, consolidator):
-    consolidator.add_after_shave(AfterShave(manufacturer, model))
+    if "Witch Hazel" in model:
+        consolidator.add_post_shave(PostShave(manufacturer, model))
+    elif "Combo Pack" not in model:
+        consolidator.add_after_shave(AfterShave(manufacturer, model))
 
 
 def load_page(url):
@@ -121,15 +124,14 @@ def compile_italian_barber():
     #     "https://www.italianbarber.com/collections/creams-soaps", product_consolidator, handle_soap_data)
 
     # Brushes
-    handle_product_type(
-        "https://www.italianbarber.com/collections/brushes/brushes", product_consolidator, handle_brush_data)
-    handle_product_type(
-        "https://www.italianbarber.com/collections/brushes/brushes-vegan-synthetic",
-        product_consolidator, handle_brush_data)
-    handle_product_type(
-        "https://www.italianbarber.com/collections/brushes-vegan-synthetic", product_consolidator, handle_brush_data)
+    # handle_product_type(
+    #     "https://www.italianbarber.com/collections/brushes/brushes", product_consolidator, handle_brush_data)
+    # handle_product_type(
+    #     "https://www.italianbarber.com/collections/brushes/brushes-vegan-synthetic",
+    #     product_consolidator, handle_brush_data)
+    # handle_product_type(
+    #     "https://www.italianbarber.com/collections/brushes-vegan-synthetic", product_consolidator, handle_brush_data)
 
-    # todo done with brushes. Start with Razors
     # Safety Razors
     # handle_product_type(
     #     "https://www.italianbarber.com/collections/safety-razors/safety-razors",
@@ -153,10 +155,24 @@ def compile_italian_barber():
     #     "https://www.italianbarber.com/collections/alum", product_consolidator, handle_postshave_data)
 
     # AfterShaves
-    # handle_product_type(
-    #     "https://www.italianbarber.com/collections/aftershaves-balms-1", product_consolidator, handle_aftershave_data)
-    # handle_product_type(
-    #     "https://www.italianbarber.com/collections/fragrances-1", product_consolidator, handle_aftershave_data)
+    handle_product_type(
+        "https://www.italianbarber.com/collections/aftershaves-balms-1/aftershaves-balms",
+        product_consolidator, handle_aftershave_data)
+    handle_product_type(
+        "https://www.italianbarber.com/collections/aftershaves-balms-1/fragrances",
+        product_consolidator, handle_aftershave_data)
+    handle_product_type(
+        "https://www.italianbarber.com/collections/aftershaves-balms-1/skincare",
+        product_consolidator, handle_postshave_data)
+    handle_product_type(
+        "https://www.italianbarber.com/collections/aftershaves-balms-1/toner-cleanser",
+        product_consolidator, handle_postshave_data)
+    handle_product_type(
+        "https://www.italianbarber.com/collections/fragrances-1/aftershaves-balms",
+        product_consolidator, handle_aftershave_data)
+    handle_product_type(
+        "https://www.italianbarber.com/collections/fragrances-1/fragrances",
+        product_consolidator, handle_aftershave_data)
 
     save_consolidator(product_consolidator)
 
