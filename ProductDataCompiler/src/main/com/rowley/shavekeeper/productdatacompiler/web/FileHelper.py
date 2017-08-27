@@ -8,7 +8,7 @@ reconciler_filename = "Reconciler"
 flat_list_filename = "ProductsFinal"
 
 
-def save_file(products, filename, relative_path="../"):
+def save_file(products, filename, relative_path="../../compiled_files/"):
     directory = os.path.relpath(relative_path)
     file_path = os.path.join(directory, filename + ".json")
 
@@ -21,7 +21,7 @@ def save_consolidator(products):
     save_file(products, consolidated_products_filename)
 
 
-def load_file(filename, relative_path="../"):
+def load_file(filename, relative_path="../../compiled_files/"):
     directory = os.path.relpath(relative_path)
     file_path = os.path.join(directory, filename + ".json")
 
