@@ -11,7 +11,8 @@ def handle_preshave_data(manufacturer, model, product_page, consolidator):
 
 
 def handle_soap_data(manufacturer, model, product_page, consolidator):
-    consolidator.add_soap(Soap(manufacturer, model))
+    if "Aftershave" not in model:
+        consolidator.add_soap(Soap(manufacturer, model))
 
 
 def handle_brush_data(manufacturer, model, product_page, consolidator):
@@ -29,7 +30,7 @@ def handle_postshave_data(manufacturer, model, product_page, consolidator):
 def handle_aftershave_data(manufacturer, model, product_page, consolidator):
     if "Witch Hazel" in model:
         consolidator.add_post_shave(PostShave(manufacturer, model))
-    elif "Combo Pack" not in model:
+    elif "Combo Pack" not in model and "Pre Shave" not in model and "Shaving Cream" not in model:
         consolidator.add_after_shave(AfterShave(manufacturer, model))
 
 
