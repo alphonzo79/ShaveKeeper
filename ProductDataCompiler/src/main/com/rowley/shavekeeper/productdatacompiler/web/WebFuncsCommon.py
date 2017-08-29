@@ -20,7 +20,8 @@ def handle_brush_data(manufacturer, model, product_page, consolidator):
 
 
 def handle_blade_data(manufacturer, model, product_page, consolidator):
-    consolidator.add_blade(Blade(manufacturer, model))
+    if "Sampler" not in model:
+        consolidator.add_blade(Blade(manufacturer, model))
 
 
 def handle_postshave_data(manufacturer, model, product_page, consolidator):
