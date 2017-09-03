@@ -43,5 +43,5 @@ def load_page(url):
         response = urllib2.urlopen(request)
         return BeautifulSoup(response.read(), 'html.parser')
     except urllib2.HTTPError as e:
-        print e.code + " ::: " + url
+        print str(e.code) + " ::: " + url
         return None
