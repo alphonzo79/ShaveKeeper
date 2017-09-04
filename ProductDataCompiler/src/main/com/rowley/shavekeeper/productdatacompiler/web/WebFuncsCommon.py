@@ -11,7 +11,7 @@ def handle_preshave_data(manufacturer, model, product_page, consolidator):
 
 
 def handle_soap_data(manufacturer, model, product_page, consolidator):
-    if "Aftershave" not in model and "Sample" not in model:
+    if "Aftershave" not in model and "Sample" not in model and "Combo" not in model:
         consolidator.add_soap(Soap(manufacturer, model))
 
 

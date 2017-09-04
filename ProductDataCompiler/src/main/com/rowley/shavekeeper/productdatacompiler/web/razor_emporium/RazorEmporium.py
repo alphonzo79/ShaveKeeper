@@ -56,9 +56,9 @@ def handle_product_type(url, consolidator, add_func):
     page = load_page(url)
     urls = pull_urls_from_page(page)
 
-    for url in urls:
+    for prodUrl in urls:
         time.sleep(2)
-        read_product(url, consolidator, add_func)
+        read_product(prodUrl, consolidator, add_func)
 
     next_link = check_for_next(page)
     if next_link is not None:
