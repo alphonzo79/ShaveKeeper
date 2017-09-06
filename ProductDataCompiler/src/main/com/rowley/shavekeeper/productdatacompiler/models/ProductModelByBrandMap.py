@@ -16,11 +16,22 @@ class ProductModelByBrandMap:
             self.__flatten_consolidator__(product_consolidator)
 
     def __add_item__(self, item):
-        if item.brand not in self.brands:
-            self.brands[item.brand] = {}
+        brand = ""
+        try:
+            brand = item.brand
+        except AttributeError:
+            brand = item["brand"]
+        if brand not in self.brands:
+            self.brands[brand] = {}
 
-        if item.model not in self.brands[item.brand]:
-            self.brands[item.brand][item.model] = ItemBase(item.brand, item.model)
+        model = ""
+        try:
+            model = item.model
+        except AttributeError:
+            model = item["model"]
+
+        if model not in self.brands[brand]:
+            self.brands[brand][model] = ItemBase(brand, model)
 
     def __add_consolidator_map_to_simple_map__(self, consolidator_map):
         for brand in consolidator_map:
