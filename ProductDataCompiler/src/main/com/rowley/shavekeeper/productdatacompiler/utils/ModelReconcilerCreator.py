@@ -6,6 +6,11 @@ from src.main.com.rowley.shavekeeper.productdatacompiler.web.FileHelper import l
 def create_model_name_reconcilor():
     product_consolidator = load_consolidator(relative_path="../compiled_files/")
     model_name_validator = ProductModelByBrandMap(product_consolidator)
+    # count = 0
+    # for brand in model_name_validator.brands:
+    #     count += len(brand)
+    #
+    # print count
     save_reconciler(model_name_validator, relative_path="../compiled_files/")
 
 
