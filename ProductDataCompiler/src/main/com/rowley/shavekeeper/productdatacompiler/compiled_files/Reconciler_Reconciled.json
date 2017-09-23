@@ -14488,46 +14488,46 @@
     },
     "Piccadilly": {
       "Shaving Co. Sandalwood Aftershave Cream": {
-        "brand": "Piccadilly",
-        "model": "Shaving Co. Sandalwood Aftershave Cream"
+        "brand": "Piccadilly Shaving Co.",
+        "model": "Sandalwood Aftershave Cream"
       },
       "Shaving Co. Sandalwood Luxury Shave Cream": {
-        "brand": "Piccadilly",
-        "model": "Shaving Co. Sandalwood Luxury Shave Cream"
+        "brand": "Piccadilly Shaving Co.",
+        "model": "Sandalwood Luxury Shave Cream"
       }
     },
     "Piccadilly Shaving Co.": {
       "Piccadilly Synthetic Shaving Brush, Faux Ebony": {
         "brand": "Piccadilly Shaving Co.",
-        "model": "Piccadilly Synthetic Shaving Brush, Faux Ebony"
+        "model": "Synthetic Shaving Brush"
       },
       "Piccadilly Synthetic Shaving Brush, Faux Ivory": {
         "brand": "Piccadilly Shaving Co.",
-        "model": "Piccadilly Synthetic Shaving Brush, Faux Ivory"
+        "model": "Synthetic Shaving Brush"
       },
       "The Aftershave Cream, Sandalwood": {
         "brand": "Piccadilly Shaving Co.",
-        "model": "The Aftershave Cream, Sandalwood"
+        "model": "Sandalwood Aftershave Cream"
       },
       "The Pre-Shave Gel, Sandalwood": {
         "brand": "Piccadilly Shaving Co.",
-        "model": "The Pre-Shave Gel, Sandalwood"
+        "model": "Sandalwood Pre-Shave Gel"
       },
       "The Pure Badger Shaving Brush": {
         "brand": "Piccadilly Shaving Co.",
-        "model": "The Pure Badger Shaving Brush"
+        "model": "Pure Badger Shaving Brush"
       },
       "The Shaving Cream, Lime": {
         "brand": "Piccadilly Shaving Co.",
-        "model": "The Shaving Cream, Lime"
+        "model": "Lime Shaving Cream"
       },
       "The Shaving Cream, Sandalwood": {
         "brand": "Piccadilly Shaving Co.",
-        "model": "The Shaving Cream, Sandalwood"
+        "model": "Sandalwood Shaving Cream"
       },
       "The Shaving Cream, Unscented": {
         "brand": "Piccadilly Shaving Co.",
-        "model": "The Shaving Cream, Unscented"
+        "model": "Unscented Shaving Cream"
       }
     },
     "Pils": {
@@ -14537,19 +14537,15 @@
       },
       "101RWE21 Silvertip Badger Shaving Brush - Stainless Steel": {
         "brand": "Pils",
-        "model": "101RWE21 Silvertip Badger Shaving Brush - Stainless Steel"
+        "model": "Silvertip Badger Shaving Brush"
       },
       "101RWL21 Silvertip Badger Brush 21mm, Stainless Steel": {
         "brand": "Pils",
-        "model": "101RWL21 Silvertip Badger Brush 21mm, Stainless Steel"
+        "model": "Silvertip Badger Shaving Brush"
       },
       "104NE Stainless Steel Double Edge Safety Razor": {
         "brand": "Pils",
         "model": "104NE Stainless Steel Double Edge Safety Razor"
-      },
-      "Stainless Steel Bowl with Soap, 100g": {
-        "brand": "Pils",
-        "model": "Stainless Steel Bowl with Soap, 100g"
       }
     },
     "Pinaud Clubman": {
@@ -14579,7 +14575,7 @@
       },
       "Lustray \"Old Timey\" Aftershave 14 oz": {
         "brand": "Pinaud Clubman",
-        "model": "Lustray \"Old Timey\" Aftershave 14 oz"
+        "model": "Lustray \"Old Timey\" Aftershave"
       },
       "Musk After Shave Lotion": {
         "brand": "Pinaud Clubman",
@@ -14595,27 +14591,27 @@
       },
       "Pinaud - Clubman 6 Ounce Aftershave & Cologne": {
         "brand": "Pinaud Clubman",
-        "model": "Pinaud - Clubman 6 Ounce Aftershave & Cologne"
+        "model": "Pinaud Clubman Aftershave & Cologne"
       },
       "Pinaud - Clubman Aftershave & Cologne (Large Size)": {
         "brand": "Pinaud Clubman",
-        "model": "Pinaud - Clubman Aftershave & Cologne (Large Size)"
+        "model": "Pinaud Clubman Aftershave & Cologne"
       },
       "Pinaud/Clubman \"Nick Relief\"": {
         "brand": "Pinaud Clubman",
-        "model": "Pinaud/Clubman \"Nick Relief\""
+        "model": "Nick Relief"
       },
       "Pinaud/Clubman Shave Talc": {
         "brand": "Pinaud Clubman",
-        "model": "Pinaud/Clubman Shave Talc"
+        "model": "Shave Talc"
       },
       "Pinaud/Clubman Styptic Pencil": {
         "brand": "Pinaud Clubman",
-        "model": "Pinaud/Clubman Styptic Pencil"
+        "model": "Styptic Pencil"
       },
       "Pinaud/Clubman Travel Styptic Pencil": {
         "brand": "Pinaud Clubman",
-        "model": "Pinaud/Clubman Travel Styptic Pencil"
+        "model": "Travel Styptic Pencil"
       },
       "Special Reserve Cologne": {
         "brand": "Pinaud Clubman",
@@ -14633,39 +14629,39 @@
     "Pino Silvestre": {
       "Aftershave 125ml": {
         "brand": "Pino Silvestre",
-        "model": "Aftershave 125ml"
+        "model": "Aftershave"
       },
       "Eau de Toilette 125ml": {
         "brand": "Pino Silvestre",
-        "model": "Eau de Toilette 125ml"
+        "model": "Eau de Toilette"
       },
       "Soffio Di Talco Eau de Toilette 125ml": {
         "brand": "Pino Silvestre",
-        "model": "Soffio Di Talco Eau de Toilette 125ml"
+        "model": "Soffio Di Talco Eau de Toilette"
       }
     },
     "Pitralon": {
       "Aftershave Splash, Classic": {
         "brand": "Pitralon",
-        "model": "Aftershave Splash, Classic"
+        "model": "Classic Aftershave Splash"
       },
       "Aftershave Splash, Polar": {
         "brand": "Pitralon",
-        "model": "Aftershave Splash, Polar"
+        "model": "Polar Aftershave Splash"
       },
       "Aftershave Splash, Pure": {
         "brand": "Pitralon",
-        "model": "Aftershave Splash, Pure"
+        "model": "Pure Aftershave Splash"
       },
       "Aftershave Splash, Swiss": {
         "brand": "Pitralon",
-        "model": "Aftershave Splash, Swiss"
+        "model": "Swiss Aftershave Splash"
       }
     },
     "Polsilver": {
       "PolSilver Super Iridium DE Blades 5Pk.": {
         "brand": "Polsilver",
-        "model": "PolSilver Super Iridium DE Blades 5Pk."
+        "model": "Super Iridium"
       },
       "Super Iridium": {
         "brand": "Polsilver",
@@ -14673,33 +14669,33 @@
       },
       "Super Iridium DE Razor Blades (100 Blades)": {
         "brand": "Polsilver",
-        "model": "Super Iridium DE Razor Blades (100 Blades)"
+        "model": "Super Iridium"
       },
       "Super Iridium Double Edge (DE) Razor Blades": {
         "brand": "Polsilver",
-        "model": "Super Iridium Double Edge (DE) Razor Blades"
+        "model": "Super Iridium"
       },
       "Super Iridium Double Edge Razor Blades, 5 pack": {
         "brand": "Polsilver",
-        "model": "Super Iridium Double Edge Razor Blades, 5 pack"
+        "model": "Super Iridium"
       },
       "Super Iridium Razor Blades": {
         "brand": "Polsilver",
-        "model": "Super Iridium Razor Blades"
+        "model": "Super Iridium"
       }
     },
     "Polsilver Super Iridium": {
       "10 Double Edge Blades": {
-        "brand": "Polsilver Super Iridium",
-        "model": "10 Double Edge Blades"
+        "brand": "Polsilver",
+        "model": "Super Iridium"
       },
       "100 Double Edge Blades": {
-        "brand": "Polsilver Super Iridium",
-        "model": "100 Double Edge Blades"
+        "brand": "Polsilver",
+        "model": "Super Iridium"
       },
       "50 Double Edge Blades": {
-        "brand": "Polsilver Super Iridium",
-        "model": "50 Double Edge Blades"
+        "brand": "Polsilver",
+        "model": "Super Iridium"
       }
     },
     "Portland General Store": {
@@ -14713,31 +14709,31 @@
       },
       "RACER Shaving Cream, 240ml": {
         "brand": "Portland General Store",
-        "model": "RACER Shaving Cream, 240ml"
+        "model": "Racer Shaving Cream"
       },
       "TOBACCO no. 001 Eau de Toilette 15ml": {
         "brand": "Portland General Store",
-        "model": "TOBACCO no. 001 Eau de Toilette 15ml"
+        "model": "Tobacco no. 001 Eau de Toilette"
       },
       "WHISKEY Natural Aftershave Splash": {
         "brand": "Portland General Store",
-        "model": "WHISKEY Natural Aftershave Splash"
+        "model": "Whiskey Natural Aftershave Splash"
       },
       "WHISKEY Shave Soap": {
         "brand": "Portland General Store",
-        "model": "WHISKEY Shave Soap"
+        "model": "Whiskey Shave Soap"
       },
       "WILLOW Toner with Black Willow Bark, 120ml": {
         "brand": "Portland General Store",
-        "model": "WILLOW Toner with Black Willow Bark, 120ml"
+        "model": "Willow Toner with Black Willow Bark"
       },
       "WOOD no. 003 Eau de Toilette 15ml": {
         "brand": "Portland General Store",
-        "model": "WOOD no. 003 Eau de Toilette 15ml"
+        "model": "Wood no. 003 Eau de Toilette"
       },
       "Whiskey Aftershave Splash": {
         "brand": "Portland General Store",
-        "model": "Whiskey Aftershave Splash"
+        "model": "Whiskey Natural Aftershave Splash"
       },
       "Whiskey Shave Soap": {
         "brand": "Portland General Store",
@@ -14762,26 +14758,22 @@
     },
     "Pre De Provence": {
       "Shea Butter Aftershave Balm": {
-        "brand": "Pre De Provence",
+        "brand": "Pre de Provence",
         "model": "Shea Butter Aftershave Balm"
       },
       "Shea Butter Shave Cream": {
-        "brand": "Pre De Provence",
+        "brand": "Pre de Provence",
         "model": "Shea Butter Shave Cream"
       },
       "Shea Butter Shave Soap": {
-        "brand": "Pre De Provence",
+        "brand": "Pre de Provence",
         "model": "Shea Butter Shave Soap"
-      },
-      "Tube Roller Key": {
-        "brand": "Pre De Provence",
-        "model": "Tube Roller Key"
       }
     },
     "Pre de Provence": {
       "#63 Shaving Soap in Tin": {
         "brand": "Pre de Provence",
-        "model": "#63 Shaving Soap in Tin"
+        "model": "No. 63 Shaving Soap"
       },
       "After Shave Balm": {
         "brand": "Pre de Provence",
@@ -14789,225 +14781,213 @@
       },
       "Aftershave Balm 2.5oz": {
         "brand": "Pre de Provence",
-        "model": "Aftershave Balm 2.5oz"
-      },
-      "Metal Tube Roller Key": {
-        "brand": "Pre de Provence",
-        "model": "Metal Tube Roller Key"
+        "model": "After Shave Balm"
       },
       "No. 63 Aftershave Balm 2.5oz": {
         "brand": "Pre de Provence",
-        "model": "No. 63 Aftershave Balm 2.5oz"
+        "model": "No. 63 Aftershave Balm"
       },
       "No. 63 Men's After Shave Balm": {
         "brand": "Pre de Provence",
-        "model": "No. 63 Men's After Shave Balm"
+        "model": "No. 63 Aftershave Balm"
       },
       "No. 63 Men's Shave Cream": {
         "brand": "Pre de Provence",
-        "model": "No. 63 Men's Shave Cream"
+        "model": "No. 63 Shaving Cream"
       },
       "No. 63 Shaving Cream 2.5oz": {
         "brand": "Pre de Provence",
-        "model": "No. 63 Shaving Cream 2.5oz"
+        "model": "No. 63 Shaving Cream"
       },
       "Shave Cream": {
         "brand": "Pre de Provence",
-        "model": "Shave Cream"
+        "model": "Shaving Cream"
       },
       "Shave Soap in Tin": {
         "brand": "Pre de Provence",
-        "model": "Shave Soap in Tin"
+        "model": "Shaving Soap"
       },
       "Shaving Cream 2.5oz": {
         "brand": "Pre de Provence",
-        "model": "Shaving Cream 2.5oz"
+        "model": "Shaving Cream"
       },
       "Shaving Soap in Tin": {
         "brand": "Pre de Provence",
-        "model": "Shaving Soap in Tin"
+        "model": "Shaving Soap"
       }
     },
     "Prep": {
       "Aftershave Emulsion 100 ml Glass Bottle": {
-        "brand": "Prep",
-        "model": "Aftershave Emulsion 100 ml Glass Bottle"
+        "brand": "Prep Skincare Products Limited",
+        "model": "Emulsion Aftershave"
       },
       "Aftershave-Sensitive": {
-        "brand": "Prep",
-        "model": "Aftershave-Sensitive"
+        "brand": "Prep Skincare Products Limited",
+        "model": "Sensitive Aftershave"
       },
       "Extra Fresco Aftershave Balm 75 ml Tube": {
-        "brand": "Prep",
-        "model": "Extra Fresco Aftershave Balm 75 ml Tube"
+        "brand": "Prep Skincare Products Limited",
+        "model": "Extra Fresco Aftershave Balm"
       },
       "Extra Hydrating Aftershave Balm 75 ml Tube - Alcohol Free": {
-        "brand": "Prep",
-        "model": "Extra Hydrating Aftershave Balm 75 ml Tube - Alcohol Free"
+        "brand": "Prep Skincare Products Limited",
+        "model": "Extra Hydrating Aftershave Balm - Alcohol Free"
       },
       "Pre & Post Cream 75 ml Jar": {
-        "brand": "Prep",
-        "model": "Pre & Post Cream 75 ml Jar"
+        "brand": "Prep Skincare Products Limited",
+        "model": "Pre & Post Cream"
       },
       "Pre & Post Cream 75 ml Tube": {
-        "brand": "Prep",
-        "model": "Pre & Post Cream 75 ml Tube"
+        "brand": "Prep Skincare Products Limited",
+        "model": "Pre & Post Cream"
       },
       "Shaving Cream 150 ml Tube": {
-        "brand": "Prep",
-        "model": "Shaving Cream 150 ml Tube"
+        "brand": "Prep Skincare Products Limited",
+        "model": "Shaving Cream"
       },
       "Shaving Soap 150 ml Tub": {
-        "brand": "Prep",
-        "model": "Shaving Soap 150 ml Tub"
+        "brand": "Prep Skincare Products Limited",
+        "model": "Shaving Soap"
       }
     },
     "Prep Skincare Products Limited": {
       "Prep Aftershave Balm, bottle": {
         "brand": "Prep Skincare Products Limited",
-        "model": "Prep Aftershave Balm, bottle"
-      },
-      "Prep Cream, jar": {
-        "brand": "Prep Skincare Products Limited",
-        "model": "Prep Cream, jar"
-      },
-      "Prep Cream, tube": {
-        "brand": "Prep Skincare Products Limited",
-        "model": "Prep Cream, tube"
+        "model": "Aftershave Balm"
       }
     },
     "Proraso": {
       "\"Aloe & Vitamin E\" Protective & Moisturizing Aftershave Balm": {
         "brand": "Proraso",
-        "model": "\"Aloe & Vitamin E\" Protective & Moisturizing Aftershave Balm"
+        "model": "Aloe & Vitamin E Protective & Moisturizing Aftershave Balm"
       },
       "(Barber Size) Pre & Post Cream -  Menthol and Eucalyptus - 300ml Big Jar": {
         "brand": "Proraso",
-        "model": "(Barber Size) Pre & Post Cream -  Menthol and Eucalyptus - 300ml Big Jar"
+        "model": "Menthol and Eucalyptus Pre & Post Cream"
       },
       "(Big Barber Tube) Shave Cream Menthol & Eucalyptus 500ml Tube": {
         "brand": "Proraso",
-        "model": "(Big Barber Tube) Shave Cream Menthol & Eucalyptus 500ml Tube"
+        "model": "Menthol & Eucalyptus Shave Cream"
       },
       "(Blue Balm) Liquid Cream Aftershave Balm - Aloe and Vitamin E": {
         "brand": "Proraso",
-        "model": "(Blue Balm) Liquid Cream Aftershave Balm - Aloe and Vitamin E"
+        "model": "Aloe and Vitamin E Liquid Cream Aftershave Balm"
       },
       "(Blue Tube) Shaving Cream - Aloe and Vitamin - Hydrating and Protecting": {
         "brand": "Proraso",
-        "model": "(Blue Tube) Shaving Cream - Aloe and Vitamin - Hydrating and Protecting"
+        "model": "Aloe and Vitamin E Shaving Cream"
       },
       "(Green Balm) Liquid Cream Aftershave - Menthol & Eucalyptus": {
         "brand": "Proraso",
-        "model": "(Green Balm) Liquid Cream Aftershave - Menthol & Eucalyptus"
+        "model": "Menthol & Eucalyptus Liquid Cream Aftershave"
       },
       "(Green Jar) Pre & Post Cream - Menthol and Eucalyptus - Cooling and Refreshing": {
         "brand": "Proraso",
-        "model": "(Green Jar) Pre & Post Cream - Menthol and Eucalyptus - Cooling and Refreshing"
+        "model": "Menthol & Eucalyptus Pre & Post Cream"
       },
       "(Green Soap) Shaving Soap Jar - Menthol and Eucalyptus": {
         "brand": "Proraso",
-        "model": "(Green Soap) Shaving Soap Jar - Menthol and Eucalyptus"
+        "model": "Menthol & Eucalyptus Shaving Soap"
       },
       "(Green Splash) Aftershave with Eucalyptus Oil and Menthol - Splash": {
         "brand": "Proraso",
-        "model": "(Green Splash) Aftershave with Eucalyptus Oil and Menthol - Splash"
+        "model": "Menthol & Eucalyptus Aftershave Splash"
       },
       "(Green Tube) Shave Cream - Menthol and Eucalyptus - Cooling and Refreshing": {
         "brand": "Proraso",
-        "model": "(Green Tube) Shave Cream - Menthol and Eucalyptus - Cooling and Refreshing"
+        "model": "Menthol & Eucalyptus Shave Cream"
       },
       "(Red Jar) Pre & Post Cream - Sandalwood And Shea Butter - For Tough Beards": {
         "brand": "Proraso",
-        "model": "(Red Jar) Pre & Post Cream - Sandalwood And Shea Butter - For Tough Beards"
+        "model": "Sandalwood And Shea Butter Pre & Post Cream"
       },
       "(Red Soap) Shaving Soap Jar - Sandalwood with Shea Butter - For Tough Beards": {
         "brand": "Proraso",
-        "model": "(Red Soap) Shaving Soap Jar - Sandalwood with Shea Butter - For Tough Beards"
+        "model": "Sandalwood And Shea Butter Shaving Soap Jar"
       },
       "(Red Splash) Sandalwood Aftershave - Splash": {
         "brand": "Proraso",
-        "model": "(Red Splash) Sandalwood Aftershave - Splash"
+        "model": "Sandalwood Aftershave Splash"
       },
       "(Red Tube) Shaving Cream - Sandalwood and Shea Butter - For Tough Beards": {
         "brand": "Proraso",
-        "model": "(Red Tube) Shaving Cream - Sandalwood and Shea Butter - For Tough Beards"
+        "model": "Sandalwood And Shea Butter Shaving Cream"
       },
       "(Travel Soap) Shave Soap 75ml Tub - Menthol and Eucalyptus": {
         "brand": "Proraso",
-        "model": "(Travel Soap) Shave Soap 75ml Tub - Menthol and Eucalyptus"
+        "model": "Menthol and Eucalyptus Shave Soap"
       },
       "(White Balm) Aftershave Balm - Green Tea and Oat": {
         "brand": "Proraso",
-        "model": "(White Balm) Aftershave Balm - Green Tea and Oat"
+        "model": "Green Tea and Oat Aftershave Balm"
       },
       "(White Balm-TRAVEL SIZE) Aftershave Balm - Green Tea and Oat": {
         "brand": "Proraso",
-        "model": "(White Balm-TRAVEL SIZE) Aftershave Balm - Green Tea and Oat"
+        "model": "Green Tea and Oat Aftershave Balm"
       },
       "(White Jar) Pre & Post Cream - Green Tea and Oat - For Sensitive Skin": {
         "brand": "Proraso",
-        "model": "(White Jar) Pre & Post Cream - Green Tea and Oat - For Sensitive Skin"
+        "model": "Green Tea and Oat Pre & Post Cream"
       },
       "(White Soap) Shaving Soap Jar - Green Tea and Oat - For Sensitive Skin": {
         "brand": "Proraso",
-        "model": "(White Soap) Shaving Soap Jar - Green Tea and Oat - For Sensitive Skin"
+        "model": "Green Tea and Oat Shaving Soap"
       },
       "(White Tube) Shaving Cream - Green Tea & Oat - For Sensitive Skin": {
         "brand": "Proraso",
-        "model": "(White Tube) Shaving Cream - Green Tea & Oat - For Sensitive Skin"
+        "model": "Green Tea and Oat Shaving Cream"
       },
       "After Shave Lotion - Red, Nourishing and Moisturizing": {
         "brand": "Proraso",
-        "model": "After Shave Lotion - Red, Nourishing and Moisturizing"
+        "model": "Sandalwood and Shea Butter After Shave Lotion"
       },
       "After Shave Lotion, 400ml": {
         "brand": "Proraso",
-        "model": "After Shave Lotion, 400ml"
+        "model": "After Shave Lotion"
       },
       "After Shave Lotion, Sandalwood & Shea Butter": {
         "brand": "Proraso",
-        "model": "After Shave Lotion, Sandalwood & Shea Butter"
+        "model": "Sandalwood & Shea Butter After Shave Lotion"
       },
       "AfterShave | Blue Protective After Shave Balm Aloe & Vitamin E": {
         "brand": "Proraso",
-        "model": "AfterShave | Blue Protective After Shave Balm Aloe & Vitamin E"
+        "model": "Aloe & Vitamin E After Shave Balm "
       },
       "AfterShave | Green Refresh After Shave Splash": {
         "brand": "Proraso",
-        "model": "AfterShave | Green Refresh After Shave Splash"
+        "model": "Menthol and Eucalyptus After Shave Splash"
       },
       "Aftershave Balm - Azur Lime": {
         "brand": "Proraso",
-        "model": "Aftershave Balm - Azur Lime"
+        "model": "Azur Lime Aftershave Balm"
       },
       "Aftershave Balm - Blue, Protecting and Moisturizing": {
         "brand": "Proraso",
-        "model": "Aftershave Balm - Blue, Protecting and Moisturizing"
+        "model": "Aloe & Vitamin E Aftershave Balm"
       },
       "Aftershave Balm - Cypress And Vetyver": {
         "brand": "Proraso",
-        "model": "Aftershave Balm - Cypress And Vetyver"
+        "model": "Cypress And Vetyver Aftershave Balm"
       },
       "Aftershave Balm - Green, Refreshing and Toning": {
         "brand": "Proraso",
-        "model": "Aftershave Balm - Green, Refreshing and Toning"
+        "model": "Menthol and Eucalyptus Aftershave Balm"
       },
       "Aftershave Balm - White, Sensitive Skin": {
         "brand": "Proraso",
-        "model": "Aftershave Balm - White, Sensitive Skin"
+        "model": "Green Tea and Oat Aftershave Balm"
       },
       "Aftershave Balm - Wood And Spice": {
         "brand": "Proraso",
-        "model": "Aftershave Balm - Wood And Spice"
+        "model": "Wood And Spice Aftershave Balm"
       },
       "Aftershave Balm Aloe and Vitamin E-Blue": {
         "brand": "Proraso",
-        "model": "Aftershave Balm Aloe and Vitamin E-Blue"
+        "model": "Aloe and Vitamin E Aftershave Balm"
       },
       "Aftershave Balm Menthol": {
         "brand": "Proraso",
-        "model": "Aftershave Balm Menthol"
+        "model": "Menthol Aftershave Balm"
       },
       "Aftershave Balm for Sensitive Skin": {
         "brand": "Proraso",
@@ -15015,15 +14995,15 @@
       },
       "Aftershave Balm, Azur Lime": {
         "brand": "Proraso",
-        "model": "Aftershave Balm, Azur Lime"
+        "model": "Azur Lime Aftershave Balm"
       },
       "Aftershave Balm, Cypress & Vetiver": {
         "brand": "Proraso",
-        "model": "Aftershave Balm, Cypress & Vetiver"
+        "model": "Cypress & Vetiver Aftershave Balm"
       },
       "Aftershave Balm, Wood & Spice": {
         "brand": "Proraso",
-        "model": "Aftershave Balm, Wood & Spice"
+        "model": "Wood and Spice Aftershave Balm"
       },
       "Aftershave Balm-Sensitive Skin": {
         "brand": "Proraso",
@@ -15031,107 +15011,103 @@
       },
       "Aftershave Lotion - Green, Refreshing and Toning": {
         "brand": "Proraso",
-        "model": "Aftershave Lotion - Green, Refreshing and Toning"
+        "model": "Menthol and Eucalyptus Aftershave Lotion"
       },
       "Aftershave Lotion -Refresh": {
         "brand": "Proraso",
-        "model": "Aftershave Lotion -Refresh"
+        "model": "Aftershave Lotion - Refresh"
       },
       "Aftershave Lotion Refresh-Green": {
         "brand": "Proraso",
-        "model": "Aftershave Lotion Refresh-Green"
+        "model": "Menthol and Eucalyptus Aftershave Lotion"
       },
       "Aftershave Lotion Sandalwood-Nourish-Red": {
         "brand": "Proraso",
-        "model": "Aftershave Lotion Sandalwood-Nourish-Red"
+        "model": "Sandalwood Aftershave Lotion"
       },
       "Aftershave Lotion Splash in 400ml Barber Sized Bottle": {
         "brand": "Proraso",
-        "model": "Aftershave Lotion Splash in 400ml Barber Sized Bottle"
+        "model": "Aftershave Lotion Splash"
       },
       "Aftershave Splash, Menthol and Eucalyptus, 100ml": {
         "brand": "Proraso",
-        "model": "Aftershave Splash, Menthol and Eucalyptus, 100ml"
+        "model": "Menthol and Eucalyptus Aftershave Splash"
       },
       "Aftershave With Eucalyptus Oil And Menthol - New Formula": {
         "brand": "Proraso",
-        "model": "Aftershave With Eucalyptus Oil And Menthol - New Formula"
+        "model": "Menthol and Eucalyptus Aftershave Splash"
       },
       "Alcohol Free After Shave Balm, Menthol & Eucalyptus": {
         "brand": "Proraso",
-        "model": "Alcohol Free After Shave Balm, Menthol & Eucalyptus"
+        "model": "Menthol and Eucalyptus Alcohol Free After Shave Balm"
       },
       "Alcohol Free Aftershave Balm - Aloe And Vitamin E": {
         "brand": "Proraso",
-        "model": "Alcohol Free Aftershave Balm - Aloe And Vitamin E"
+        "model": "Aloe And Vitamin E Alcohol Free Aftershave Balm"
       },
       "Alcohol Free Aftershave Balm, Aloe and Vitamin E, 100ml": {
         "brand": "Proraso",
-        "model": "Alcohol Free Aftershave Balm, Aloe and Vitamin E, 100ml"
+        "model": "Aloe And Vitamin E Alcohol Free Aftershave Balm"
       },
       "Alcohol Free Aftershave Balm, Green Tea and Oat, 100ml": {
         "brand": "Proraso",
-        "model": "Alcohol Free Aftershave Balm, Green Tea and Oat, 100ml"
+        "model": "Green Tea and Oat Alcohol Free Aftershave Balm"
       },
       "Aloe And Vitamin E Shaving Cream Tube": {
         "brand": "Proraso",
-        "model": "Aloe And Vitamin E Shaving Cream Tube"
+        "model": "Aloe And Vitamin E Shaving Cream"
       },
       "Beard Wash, Wood & Spice": {
         "brand": "Proraso",
-        "model": "Beard Wash, Wood & Spice"
+        "model": "Wood & Spice Beard Wash"
       },
       "Blue Aloe and Vitamin E Shaving Cream, 150ml Tube": {
         "brand": "Proraso",
-        "model": "Blue Aloe and Vitamin E Shaving Cream, 150ml Tube"
+        "model": "Aloe and Vitamin E Shaving Cream"
       },
       "Blue Aloe and Vitamin E Shaving Foam Travel Size": {
         "brand": "Proraso",
-        "model": "Blue Aloe and Vitamin E Shaving Foam Travel Size"
+        "model": "Aloe and Vitamin E Shaving Foam"
       },
       "Bundle | Red Nourish Shaving Soap in Jar": {
         "brand": "Proraso",
-        "model": "Bundle | Red Nourish Shaving Soap in Jar"
+        "model": "Red Nourish Shaving Soap"
       },
       "Cologne - Azur Lime": {
         "brand": "Proraso",
-        "model": "Cologne - Azur Lime"
+        "model": "Azur Lime Cologne"
       },
       "Cologne - Cypress And Vetyver": {
         "brand": "Proraso",
-        "model": "Cologne - Cypress And Vetyver"
+        "model": "Cypress And Vetyver Cologne"
       },
       "Cologne - Wood And Spice": {
         "brand": "Proraso",
-        "model": "Cologne - Wood And Spice"
+        "model": "Wood And Spice Cologne"
       },
       "Eau de Cologne, Azur Lime": {
         "brand": "Proraso",
-        "model": "Eau de Cologne, Azur Lime"
+        "model": "Azur Lime Eau de Cologne"
       },
       "Eau de Cologne, Cypress & Vetiver": {
         "brand": "Proraso",
-        "model": "Eau de Cologne, Cypress & Vetiver"
+        "model": "Cypress & Vetiver Eau de Cologne"
       },
       "Eau de Cologne, Wood & Spice": {
         "brand": "Proraso",
-        "model": "Eau de Cologne, Wood & Spice"
+        "model": "Wood And Spice Eau de Cologne"
       },
       "Eucalyptus & Menthol Shaving Soap - 5.2oz Green Plastic Tub": {
         "brand": "Proraso",
-        "model": "Eucalyptus & Menthol Shaving Soap - 5.2oz Green Plastic Tub"
-      },
-      "Green Refresh Shaving Gift Set": {
-        "brand": "Proraso",
-        "model": "Green Refresh Shaving Gift Set"
+        "model": "Eucalyptus & Menthol Shaving Soap"
       },
       "Green Tea & Oat Shave Soap for Sensitive Skin - 5.2oz White Plastic Tub": {
         "brand": "Proraso",
-        "model": "Green Tea & Oat Shave Soap for Sensitive Skin - 5.2oz White Plastic Tub"
+        "model": "Green Tea & Oat Shave Soap"
       },
       "Liquid Aftershave Cream - Green Tea & Oatmeal (100ml)": {
         "brand": "Proraso",
-        "model": "Liquid Aftershave Cream - Green Tea & Oatmeal (100ml)"
+        "model": "Green Tea & Oatmeal Liquid Aftershave Cream"
       },
       "Liquid Cream Aftershave Balm": {
         "brand": "Proraso",
@@ -15143,15 +15119,15 @@
       },
       "Menthol and Eucalyptus Shaving Foam Travel Size": {
         "brand": "Proraso",
-        "model": "Menthol and Eucalyptus Shaving Foam Travel Size"
+        "model": "Menthol and Eucalyptus Shaving Foam"
       },
       "NEW AfterShave | Red Nourish After Shave Splash": {
         "brand": "Proraso",
-        "model": "NEW AfterShave | Red Nourish After Shave Splash"
+        "model": "Red Nourish After Shave Splash"
       },
       "NEW Sandalwood Aftershave Lotion - Hot Seller!": {
         "brand": "Proraso",
-        "model": "NEW Sandalwood Aftershave Lotion - Hot Seller!"
+        "model": "Sandalwood Aftershave Lotion"
       },
       "Nick Sealer Gel Bloodstop": {
         "brand": "Proraso",
@@ -15159,15 +15135,15 @@
       },
       "Pre & Post Cream, Green Tea & Oat, 100ml": {
         "brand": "Proraso",
-        "model": "Pre & Post Cream, Green Tea & Oat, 100ml"
+        "model": "Green Tea & Oat Pre & Post Cream"
       },
       "Pre & Post Cream, Menthol & Eucalyptus, 100ml": {
         "brand": "Proraso",
-        "model": "Pre & Post Cream, Menthol & Eucalyptus, 100ml"
+        "model": "Menthol & Eucalyptus Pre & Post Cream"
       },
       "Pre & Post Cream, Sandalwood & Shea Butter": {
         "brand": "Proraso",
-        "model": "Pre & Post Cream, Sandalwood & Shea Butter"
+        "model": "Sandalwood & Shea Butter Pre & Post Cream"
       },
       "Pre Shave Cream": {
         "brand": "Proraso",
@@ -15175,83 +15151,67 @@
       },
       "Pre-Shave Cream - Green, Refreshing and Toning": {
         "brand": "Proraso",
-        "model": "Pre-Shave Cream - Green, Refreshing and Toning"
+        "model": "Menthol & Eucalyptus Pre-Shave Cream"
       },
       "Pre-Shave Cream - Red, Nourishing and Moisturizing": {
         "brand": "Proraso",
-        "model": "Pre-Shave Cream - Red, Nourishing and Moisturizing"
+        "model": "Sandalwood & Shea Butter Pre-Shave Cream"
       },
       "Pre-Shave Cream - White, Sensitive Skin": {
         "brand": "Proraso",
-        "model": "Pre-Shave Cream - White, Sensitive Skin"
+        "model": "Green Tea and Oat Pre-Shave Cream"
       },
       "Pre/Post Cream | Red Nourish": {
         "brand": "Proraso",
-        "model": "Pre/Post Cream | Red Nourish"
+        "model": "Sandalwood & Shea Butter Pre/Post Cream"
       },
       "Pre/Post Cream | White Sensitive Anti-Irritation Pre/Post Cream": {
         "brand": "Proraso",
-        "model": "Pre/Post Cream | White Sensitive Anti-Irritation Pre/Post Cream"
+        "model": "Green Tea and Oat Pre/Post Cream"
       },
       "Preshave Cream-Menthol": {
         "brand": "Proraso",
-        "model": "Preshave Cream-Menthol"
+        "model": "Menthol Preshave Cream"
       },
       "Preshave Cream-Sandalwood": {
         "brand": "Proraso",
-        "model": "Preshave Cream-Sandalwood"
+        "model": "Sandalwood Preshave Cream"
       },
       "Preshave Cream-Sensitive": {
         "brand": "Proraso",
-        "model": "Preshave Cream-Sensitive"
+        "model": "Sensitive Preshave Cream"
       },
       "Professional Boar Bristle Brush": {
         "brand": "Proraso",
         "model": "Professional Boar Bristle Brush"
       },
-      "Professional Shaving Bowl": {
-        "brand": "Proraso",
-        "model": "Professional Shaving Bowl"
-      },
       "Professional Shaving Cream Tube, 500ml": {
         "brand": "Proraso",
-        "model": "Professional Shaving Cream Tube, 500ml"
-      },
-      "Proraso, PAA Flask or Floid Atomizer Attachment - Choose Color": {
-        "brand": "Proraso",
-        "model": "Proraso, PAA Flask or Floid Atomizer Attachment - Choose Color"
+        "model": "Professional Shaving Cream"
       },
       "Proraso-Omega Boar Brush Chrome Handle": {
         "brand": "Proraso",
-        "model": "Proraso-Omega Boar Brush Chrome Handle"
+        "model": "Proraso-Omega Boar Brush"
       },
       "Sandalwood Shave Soap - 5.2oz Red Plastic Tub": {
         "brand": "Proraso",
-        "model": "Sandalwood Shave Soap - 5.2oz Red Plastic Tub"
+        "model": "Sandalwood Shave Soap"
       },
       "Sandalwood With Shea Butter Shaving Cream Tube": {
         "brand": "Proraso",
-        "model": "Sandalwood With Shea Butter Shaving Cream Tube"
+        "model": "Sandalwood With Shea Butter Shaving Cream"
       },
       "Sandalwood with Shea Butter Cream Soap, 150ml Tub": {
         "brand": "Proraso",
-        "model": "Sandalwood with Shea Butter Cream Soap, 150ml Tub"
+        "model": "Sandalwood with Shea Butter Cream Soap"
       },
       "Sandalwood with Shea Butter Shaving Foam Travel Size": {
         "brand": "Proraso",
-        "model": "Sandalwood with Shea Butter Shaving Foam Travel Size"
+        "model": "Sandalwood with Shea Butter Shaving Foam"
       },
       "Sensitive Skin Green Tea & Oat Shaving Cream Tube -White": {
         "brand": "Proraso",
-        "model": "Sensitive Skin Green Tea & Oat Shaving Cream Tube -White"
-      },
-      "Set, Green Tea And Oat": {
-        "brand": "Proraso",
-        "model": "Set, Green Tea And Oat"
-      },
-      "Set, Menthol and Eucalyptus": {
-        "brand": "Proraso",
-        "model": "Set, Menthol and Eucalyptus"
+        "model": "Green Tea & Oat Shaving Cream"
       },
       "Shave Brush": {
         "brand": "Proraso",
@@ -15259,147 +15219,139 @@
       },
       "Shave Cream 150g Tube Menthol And Eucalyptus-New Formula": {
         "brand": "Proraso",
-        "model": "Shave Cream 150g Tube Menthol And Eucalyptus-New Formula"
+        "model": "Menthol And Eucalyptus Shave Cream"
       },
       "Shave Foam, Green Tea & Oat": {
         "brand": "Proraso",
-        "model": "Shave Foam, Green Tea & Oat"
+        "model": "Green Tea & Oat Shave Foam"
       },
       "Shave Foam, Menthol & Eucalyptus": {
         "brand": "Proraso",
-        "model": "Shave Foam, Menthol & Eucalyptus"
+        "model": "Menthol & Eucalyptus Shave Foam"
       },
       "Shave Foam, Menthol & Eucalyptus, small": {
         "brand": "Proraso",
-        "model": "Shave Foam, Menthol & Eucalyptus, small"
+        "model": "Menthol & Eucalyptus Shave Foam"
       },
       "Shave Foam, Sandalwood": {
         "brand": "Proraso",
-        "model": "Shave Foam, Sandalwood"
+        "model": "Sandalwood Shave Foam"
       },
       "Shave Soap Jar - Green, Refreshing and Toning": {
         "brand": "Proraso",
-        "model": "Shave Soap Jar - Green, Refreshing and Toning"
+        "model": "Menthol & Eucalyptus Shave Soap"
       },
       "Shave Soap Jar - Red, Nourishing and Moisturizing": {
         "brand": "Proraso",
-        "model": "Shave Soap Jar - Red, Nourishing and Moisturizing"
+        "model": "Sandalwood and Shea Butter Shave Soap"
       },
       "Shaving Cream - Bowl": {
         "brand": "Proraso",
-        "model": "Shaving Cream - Bowl"
+        "model": "Shaving Cream"
       },
       "Shaving Cream - Cypress And Vetyver - 275ml Tube": {
         "brand": "Proraso",
-        "model": "Shaving Cream - Cypress And Vetyver - 275ml Tube"
+        "model": "Cypress And Vetyver Shaving Cream"
       },
       "Shaving Cream - White, Sensitive Skin": {
         "brand": "Proraso",
-        "model": "Shaving Cream - White, Sensitive Skin"
+        "model": "Green Tea & Oat Shaving Cream"
       },
       "Shaving Cream - Wood And Spice - 275ml Tube": {
         "brand": "Proraso",
-        "model": "Shaving Cream - Wood And Spice - 275ml Tube"
+        "model": "Wood And Spice Shaving Cream"
       },
       "Shaving Cream Aloe & Vitamin E Tube": {
         "brand": "Proraso",
-        "model": "Shaving Cream Aloe & Vitamin E Tube"
+        "model": "Aloe & Vitamin E Shaving Cream"
       },
       "Shaving Cream MEGA-TUBE": {
         "brand": "Proraso",
-        "model": "Shaving Cream MEGA-TUBE"
+        "model": "Shaving Cream"
       },
       "Shaving Cream Menthol Eucalyptus Tube": {
         "brand": "Proraso",
-        "model": "Shaving Cream Menthol Eucalyptus Tube"
+        "model": "Menthol & Eucalyptus Shaving Cream"
       },
       "Shaving Cream Sandalwood & Shea Butter Tube": {
         "brand": "Proraso",
-        "model": "Shaving Cream Sandalwood & Shea Butter Tube"
+        "model": "Sandalwood & Shea Butter Shaving Cream"
       },
       "Shaving Cream Soap, Green Tea & Oat, 150g Tub": {
         "brand": "Proraso",
-        "model": "Shaving Cream Soap, Green Tea & Oat, 150g Tub"
+        "model": "Green Tea & Oat Shaving Cream Soap"
       },
       "Shaving Cream Soap, Menthol and Eucalyptus, 150g Tub": {
         "brand": "Proraso",
-        "model": "Shaving Cream Soap, Menthol and Eucalyptus, 150g Tub"
-      },
-      "Shaving Cream Tube (red, green or blue)": {
-        "brand": "Proraso",
-        "model": "Shaving Cream Tube (red, green or blue)"
+        "model": "Menthol and Eucalyptus Shaving Cream Soap"
       },
       "Shaving Cream Tube - Blue, Protecting and Moisturizing": {
         "brand": "Proraso",
-        "model": "Shaving Cream Tube - Blue, Protecting and Moisturizing"
+        "model": "Aloe & Vitamin E Shaving Cream"
       },
       "Shaving Cream Tube - Green, Refreshing and Toning": {
         "brand": "Proraso",
-        "model": "Shaving Cream Tube - Green, Refreshing and Toning"
+        "model": "Menthol and Eucalyptus Shaving Cream"
       },
       "Shaving Cream Tube - Red, Nourishing and Moisturizing": {
         "brand": "Proraso",
-        "model": "Shaving Cream Tube - Red, Nourishing and Moisturizing"
+        "model": "Sandalwood & Shea Butter Shaving Cream"
       },
       "Shaving Cream | Blue Protective & Moisturizing Aloe & Vitamin E in Tube": {
         "brand": "Proraso",
-        "model": "Shaving Cream | Blue Protective & Moisturizing Aloe & Vitamin E in Tube"
+        "model": "Aloe & Vitamin E Shaving Cream"
       },
       "Shaving Cream | Green Refresh Eucalyptus & Menthol in Tube": {
         "brand": "Proraso",
-        "model": "Shaving Cream | Green Refresh Eucalyptus & Menthol in Tube"
+        "model": "Menthol and Eucalyptus Shaving Cream"
       },
       "Shaving Cream | Red Nourish Sandalwood & Shea Butter in Tube": {
         "brand": "Proraso",
-        "model": "Shaving Cream | Red Nourish Sandalwood & Shea Butter in Tube"
+        "model": "Sandalwood & Shea Butter Shaving Cream"
       },
       "Shaving Cream | White Sensitive Anti-Irritation in Tube": {
         "brand": "Proraso",
-        "model": "Shaving Cream | White Sensitive Anti-Irritation in Tube"
+        "model": "Green Tea & Oat Shaving Cream"
       },
       "Shaving Cream, Menthol and Eucalyptus, 150ml": {
         "brand": "Proraso",
-        "model": "Shaving Cream, Menthol and Eucalyptus, 150ml"
+        "model": "Menthol and Eucalyptus Shaving Cream"
       },
       "Shaving Cream, Sandalwood, 150ml": {
         "brand": "Proraso",
-        "model": "Shaving Cream, Sandalwood, 150ml"
+        "model": "Sandalwood Shaving Cream"
       },
       "Shaving Foam - Can": {
         "brand": "Proraso",
-        "model": "Shaving Foam - Can"
+        "model": "Shaving Foam"
       },
       "Shaving Soap Jar - White, Sensitive Skin": {
         "brand": "Proraso",
-        "model": "Shaving Soap Jar - White, Sensitive Skin"
+        "model": "Green Tea & Oat Shaving Soap"
       },
       "Shaving Soap Menthol and Eucalyptus Jar": {
         "brand": "Proraso",
-        "model": "Shaving Soap Menthol and Eucalyptus Jar"
+        "model": "Menthol and Eucalyptus Shaving Soap"
       },
       "Shaving Soap Sandalwood and Shea Butter Jar": {
         "brand": "Proraso",
-        "model": "Shaving Soap Sandalwood and Shea Butter Jar"
+        "model": "Sandalwood and Shea Butter Shaving Soap"
       },
       "Shaving Soap Sensitive Skin Jar": {
         "brand": "Proraso",
-        "model": "Shaving Soap Sensitive Skin Jar"
+        "model": "Shaving Soap Sensitive Skin"
       },
       "Shaving Soap | Green Refresh Menthol & Eucalyptus in Jar": {
         "brand": "Proraso",
-        "model": "Shaving Soap | Green Refresh Menthol & Eucalyptus in Jar"
+        "model": "Menthol & Eucalyptus Shaving Soap"
       },
       "Shaving Soap | Red Nourish Sandalwood & Shea Butter in Jar": {
         "brand": "Proraso",
-        "model": "Shaving Soap | Red Nourish Sandalwood & Shea Butter in Jar"
+        "model": "Sandalwood & Shea Butter Shaving Soap"
       },
       "Shaving Soap | White Sensitive Anti-Irritation in Jar": {
         "brand": "Proraso",
-        "model": "Shaving Soap | White Sensitive Anti-Irritation in Jar"
-      },
-      "Starter Wet Shaving Kit, from Italy!": {
-        "brand": "Proraso",
-        "model": "Starter Wet Shaving Kit, from Italy!"
+        "model": "Green Tea & Oat Shaving Soap"
       },
       "Styptic Gel": {
         "brand": "Proraso",
@@ -15407,7 +15359,7 @@
       },
       "Styptic Gel, 10ml": {
         "brand": "Proraso",
-        "model": "Styptic Gel, 10ml"
+        "model": "Styptic Gel"
       },
       "Sul Filo Del Rasoio Comfort Shaving Cream": {
         "brand": "Proraso",
@@ -15415,11 +15367,11 @@
       },
       "Sul Filo Del Rasoio Razor Burn Repair Balm - New Formula": {
         "brand": "Proraso",
-        "model": "Sul Filo Del Rasoio Razor Burn Repair Balm - New Formula"
+        "model": "Sul Filo Del Rasoio Razor Burn Repair Balm"
       },
       "Sul Filo Del Rasoio Regenerating Aftershave Cream-New Formula": {
         "brand": "Proraso",
-        "model": "Sul Filo Del Rasoio Regenerating Aftershave Cream-New Formula"
+        "model": "Sul Filo Del Rasoio Regenerating Aftershave Cream"
       },
       "Sul Filo Del Rasoio Rigenera AfterShave": {
         "brand": "Proraso",
@@ -15431,37 +15383,25 @@
       },
       "Sul Filo Del Rasoio by Shave Gel 150ml": {
         "brand": "Proraso",
-        "model": "Sul Filo Del Rasoio by Shave Gel 150ml"
-      },
-      "Travel Kit": {
-        "brand": "Proraso",
-        "model": "Travel Kit"
-      },
-      "Travel Shaving Kit": {
-        "brand": "Proraso",
-        "model": "Travel Shaving Kit"
+        "model": "Sul Filo Del Rasoio by Shave Gel"
       },
       "Ultra-Sensitive Shaving Cream Tube": {
         "brand": "Proraso",
-        "model": "Ultra-Sensitive Shaving Cream Tube"
+        "model": "Ultra-Sensitive Shaving Cream"
       },
       "White Sensitive Skin Shaving Foam Travel Size": {
         "brand": "Proraso",
-        "model": "White Sensitive Skin Shaving Foam Travel Size"
+        "model": "Green Tea & Oat Shaving Foam"
       }
     },
     "Prospector Co": {
       "Prospector Co. KC Atwood Aftershave Splash": {
-        "brand": "Prospector Co",
-        "model": "Prospector Co. KC Atwood Aftershave Splash"
+        "brand": "Prospector Co.",
+        "model": "K.C. Atwood Aftershave"
       },
       "Prospector Co. Peary & Henson Aftershave Splash": {
-        "brand": "Prospector Co",
-        "model": "Prospector Co. Peary & Henson Aftershave Splash"
-      },
-      "Prospector Co. Tester Vials Shaving Kit": {
-        "brand": "Prospector Co",
-        "model": "Prospector Co. Tester Vials Shaving Kit"
+        "brand": "Prospector Co.",
+        "model": "Peary & Henson Aftershave Splash"
       }
     },
     "Prospector Co.": {
@@ -15476,30 +15416,22 @@
       "Peary & Henson Aftershave": {
         "brand": "Prospector Co.",
         "model": "Peary & Henson Aftershave"
-      },
-      "Prospector Co Leg Shave, tube": {
-        "brand": "Prospector Co.",
-        "model": "Prospector Co Leg Shave, tube"
-      },
-      "Tester Vials Shaving Kit": {
-        "brand": "Prospector Co.",
-        "model": "Tester Vials Shaving Kit"
       }
     },
     "Prospectors": {
       "After Shave, Classic": {
-        "brand": "Prospectors",
-        "model": "After Shave, Classic"
+        "brand": "Prospector Co.",
+        "model": "Classic After Shave"
       },
       "Pre-Shave Oil, Citrus": {
-        "brand": "Prospectors",
-        "model": "Pre-Shave Oil, Citrus"
+        "brand": "Prospector Co.",
+        "model": "Citrus Pre-Shave Oil"
       }
     },
     "Provence Sante": {
       "Eau de Toilette, Sweet Almond": {
         "brand": "Provence Sante",
-        "model": "Eau de Toilette, Sweet Almond"
+        "model": "Sweet Almond Eau de Toilette"
       },
       "Green Tea Aftershave": {
         "brand": "Provence Sante",
@@ -15511,35 +15443,35 @@
       },
       "Green Tea Shaving Soap Refill": {
         "brand": "Provence Sante",
-        "model": "Green Tea Shaving Soap Refill"
+        "model": "Green Tea Shaving Soap"
       },
       "Vetiver EDT, 100ml": {
         "brand": "Provence Sante",
-        "model": "Vetiver EDT, 100ml"
+        "model": "Vetiver EDT"
       }
     },
     "QSHAVE": {
       "QShave Adjustable Double Edge Safety Razor": {
         "brand": "QSHAVE",
-        "model": "QShave Adjustable Double Edge Safety Razor"
+        "model": "Adjustable Double Edge Safety Razor"
       }
     },
     "R. A. Rooney": {
       "Rooney Shaving Brush Style 1 Medium \"Silvertip Badger\"": {
         "brand": "R. A. Rooney",
-        "model": "Rooney Shaving Brush Style 1 Medium \"Silvertip Badger\""
+        "model": "Shaving Brush Style 1 Medium \"Silvertip Badger\""
       },
       "Rooney Shaving Brush Style 3 Small \"Pure Badger\" - Faux Coral": {
         "brand": "R. A. Rooney",
-        "model": "Rooney Shaving Brush Style 3 Small \"Pure Badger\" - Faux Coral"
+        "model": "Shaving Brush Style 3 Small \"Pure Badger\""
       },
       "Rooney Shaving Brush Style 3 Small \"Pure Badger\" - Ivory": {
         "brand": "R. A. Rooney",
-        "model": "Rooney Shaving Brush Style 3 Small \"Pure Badger\" - Ivory"
+        "model": "Shaving Brush Style 3 Small \"Pure Badger\""
       },
       "Rooney Shaving Brush Style 3 Small \"Super Badger\" - Faux Coral": {
         "brand": "R. A. Rooney",
-        "model": "Rooney Shaving Brush Style 3 Small \"Super Badger\" - Faux Coral"
+        "model": "Shaving Brush Style 3 Small \"Super Badger\""
       },
       "Truefitt & Hill Shaving Brush Style 1 Large \"Silvertip Badger\"": {
         "brand": "R. A. Rooney",
@@ -15551,7 +15483,7 @@
       },
       "Truefitt & Hill Shaving Brush Style 3 Medium \"Silvertip Badger\" - Horn": {
         "brand": "R. A. Rooney",
-        "model": "Truefitt & Hill Shaving Brush Style 3 Medium \"Silvertip Badger\" - Horn"
+        "model": "Truefitt & Hill Shaving Brush Style 3 Medium \"Silvertip Badger\""
       }
     },
     "Racer": {
@@ -15577,7 +15509,7 @@
     "Rapira": {
       "Ladas Super Stainless DE Blades 100ct": {
         "brand": "Rapira",
-        "model": "Ladas Super Stainless DE Blades 100ct"
+        "model": "Ladas Super Stainless"
       },
       "Platinum Lux": {
         "brand": "Rapira",
@@ -15585,11 +15517,11 @@
       },
       "Platinum Lux DE Blades 5Pk": {
         "brand": "Rapira",
-        "model": "Platinum Lux DE Blades 5Pk"
+        "model": "Platinum Lux"
       },
       "Platinum Lux Russian Double Edge (DE) Blades": {
         "brand": "Rapira",
-        "model": "Platinum Lux Russian Double Edge (DE) Blades"
+        "model": "Platinum Lux"
       },
       "Stainless Chrome": {
         "brand": "Rapira",
@@ -15597,11 +15529,11 @@
       },
       "Stainless DE Blades 100ct": {
         "brand": "Rapira",
-        "model": "Stainless DE Blades 100ct"
+        "model": "Stainless"
       },
       "Stainless DE Blades 5 Pk.": {
         "brand": "Rapira",
-        "model": "Stainless DE Blades 5 Pk."
+        "model": "Stainless"
       },
       "Super Stainless": {
         "brand": "Rapira",
@@ -15609,11 +15541,11 @@
       },
       "Super Stainless Double Edge (DE) Blades": {
         "brand": "Rapira",
-        "model": "Super Stainless Double Edge (DE) Blades"
+        "model": "Super Stainless"
       },
       "SuperSteel DE Blades 5Pk.": {
         "brand": "Rapira",
-        "model": "SuperSteel DE Blades 5Pk."
+        "model": "SuperSteel"
       },
       "Swedish Super Steel": {
         "brand": "Rapira",
@@ -15621,45 +15553,41 @@
       },
       "Swedish SuperSteel DE Blades 100ct": {
         "brand": "Rapira",
-        "model": "Swedish SuperSteel DE Blades 100ct"
+        "model": "Swedish Super Steel"
       }
     },
     "Rapira Blades": {
-      "\"From Russia with Love\" Double Edge Razor Blade Sampler Pack": {
-        "brand": "Rapira Blades",
-        "model": "\"From Russia with Love\" Double Edge Razor Blade Sampler Pack"
-      },
       "10 Rapira Platinum Lux DE Blades, 2 packs of 5 (10 blades)": {
-        "brand": "Rapira Blades",
-        "model": "10 Rapira Platinum Lux DE Blades, 2 packs of 5 (10 blades)"
+        "brand": "Rapira",
+        "model": "Platinum Lux"
       },
       "10 Rapira Stainless DE Blades, 2 packs of 5 (10 blades)": {
-        "brand": "Rapira Blades",
-        "model": "10 Rapira Stainless DE Blades, 2 packs of 5 (10 blades)"
+        "brand": "Rapira",
+        "model": "Stainless"
       },
       "10 Rapira Super Stainless DE Blade, 1 pack of 10 (10 blades)": {
-        "brand": "Rapira Blades",
-        "model": "10 Rapira Super Stainless DE Blade, 1 pack of 10 (10 blades)"
+        "brand": "Rapira",
+        "model": "Super Stainless"
       },
       "10 Rapira Swedish Supersteel Blades, 2 packs of 5 (10 blades)": {
-        "brand": "Rapira Blades",
-        "model": "10 Rapira Swedish Supersteel Blades, 2 packs of 5 (10 blades)"
+        "brand": "Rapira",
+        "model": "Swedish Supersteel"
       },
       "100 Rapira Platinum Lux DE Blades, 20 packs of 5 (100 blades)": {
-        "brand": "Rapira Blades",
-        "model": "100 Rapira Platinum Lux DE Blades, 20 packs of 5 (100 blades)"
+        "brand": "Rapira",
+        "model": "Platinum Lux"
       },
       "100 Rapira Stainless DE Blades, 20 packs of 5 (100 blades)": {
-        "brand": "Rapira Blades",
-        "model": "100 Rapira Stainless DE Blades, 20 packs of 5 (100 blades)"
+        "brand": "Rapira",
+        "model": "Stainless"
       },
       "100 Rapira Super Stainless DE Blade, 10 packs of 10 (100 blades)": {
-        "brand": "Rapira Blades",
-        "model": "100 Rapira Super Stainless DE Blade, 10 packs of 10 (100 blades)"
+        "brand": "Rapira",
+        "model": "Super Stainless"
       },
       "100 Rapira Swedish Supersteel Blades, 20 packs of 5 (100 blades)": {
-        "brand": "Rapira Blades",
-        "model": "100 Rapira Swedish Supersteel Blades, 20 packs of 5 (100 blades)"
+        "brand": "Rapira",
+        "model": "Swedish Supersteel"
       }
     },
     "Rasoir Sabre": {
@@ -15687,103 +15615,75 @@
       },
       "\"What the Puck?!\" Shaving Soap - Blue Barbershop (Email Signup)": {
         "brand": "RazoRock",
-        "model": "\"What the Puck?!\" Shaving Soap - Blue Barbershop (Email Signup)"
+        "model": "\"What the Puck?!\" Shaving Soap - Blue Barbershop"
       },
       "\"What the Puck?!\" Shaving Soap - Lime Burst (Email Signup)": {
         "brand": "RazoRock",
-        "model": "\"What the Puck?!\" Shaving Soap - Lime Burst (Email Signup)"
+        "model": "\"What the Puck?!\" Shaving Soap - Lime Burst"
       },
       "\"What the Puck?!\" Shaving Soap - Orange Sunrise (Email Signup)": {
         "brand": "RazoRock",
-        "model": "\"What the Puck?!\" Shaving Soap - Orange Sunrise (Email Signup)"
+        "model": "\"What the Puck?!\" Shaving Soap - Orange Sunrise"
       },
       "(BIG BRUCE) Plissoft BIG BRUCE Synthetic Shaving Brush": {
         "brand": "RazoRock",
-        "model": "(BIG BRUCE) Plissoft BIG BRUCE Synthetic Shaving Brush"
+        "model": "Plissoft BIG BRUCE Synthetic Shaving Brush"
       },
       "(Bamboo 37) German 37 Slant Razor with Bamboo - Torsionshobel": {
         "brand": "RazoRock",
-        "model": "(Bamboo 37) German 37 Slant Razor with Bamboo - Torsionshobel"
+        "model": "German 37 Slant Razor"
       },
       "(Bruce Handle) Plissoft Synthetic Shaving Brush": {
         "brand": "RazoRock",
-        "model": "(Bruce Handle) Plissoft Synthetic Shaving Brush"
+        "model": "Plissoft Synthetic Shaving Brush"
       },
       "(Chrome) Chrome Silvertip Plissoft Synthetic Shaving Brush": {
         "brand": "RazoRock",
-        "model": "(Chrome) Chrome Silvertip Plissoft Synthetic Shaving Brush"
-      },
-      "(Combo Pack) Al Sapone Shaving Soap & After Shaving Splash": {
-        "brand": "RazoRock",
-        "model": "(Combo Pack) Al Sapone Shaving Soap & After Shaving Splash"
-      },
-      "(Combo Pack) American Barber Shaving Soap & After Shaving Splash": {
-        "brand": "RazoRock",
-        "model": "(Combo Pack) American Barber Shaving Soap & After Shaving Splash"
-      },
-      "(Combo Pack) Plague Doctor Shaving Soap & After Shaving Splash": {
-        "brand": "RazoRock",
-        "model": "(Combo Pack) Plague Doctor Shaving Soap & After Shaving Splash"
-      },
-      "(Combo Pack) Santal Royale Shaving Soap & After Shaving Splash": {
-        "brand": "RazoRock",
-        "model": "(Combo Pack) Santal Royale Shaving Soap & After Shaving Splash"
-      },
-      "(Combo Pack) Zi' Peppino Shaving Soap & After Shaving Splash": {
-        "brand": "RazoRock",
-        "model": "(Combo Pack) Zi' Peppino Shaving Soap & After Shaving Splash"
-      },
-      "(Combo Pack) for Chicago Shaving Soap & After Shaving Splash": {
-        "brand": "RazoRock",
-        "model": "(Combo Pack) for Chicago Shaving Soap & After Shaving Splash"
+        "model": "Silvertip Plissoft Synthetic Shaving Brush"
       },
       "(Finest) 400 Badger Shaving Brush - with Finest Badger Knot": {
         "brand": "RazoRock",
-        "model": "(Finest) 400 Badger Shaving Brush - with Finest Badger Knot"
+        "model": "400 Badger Shaving Brush - with Finest Badger Knot"
       },
       "(High Mountain) 400 Badger Shaving Brush - with Silvertip HMW knot": {
         "brand": "RazoRock",
-        "model": "(High Mountain) 400 Badger Shaving Brush - with Silvertip HMW knot"
+        "model": "400 Badger Shaving Brush - with Silvertip HMW knot"
       },
       "(IVORY 22) Plissoft IVORY 22 Synthetic Shaving Brush": {
         "brand": "RazoRock",
-        "model": "(IVORY 22) Plissoft IVORY 22 Synthetic Shaving Brush"
+        "model": "Plissoft IVORY 22 Synthetic Shaving Brush"
       },
       "(Italian Barber) Three Color Plissoft Synthetic Shaving Brush": {
         "brand": "RazoRock",
-        "model": "(Italian Barber) Three Color Plissoft Synthetic Shaving Brush"
-      },
-      "(SCRATCH & DENT) Alum Block With Plastic Travel Container": {
-        "brand": "RazoRock",
-        "model": "(SCRATCH & DENT) Alum Block With Plastic Travel Container"
+        "model": "Three Color Plissoft Synthetic Shaving Brush"
       },
       "100% Natural Handmade Aftershave Wax 60ml": {
         "brand": "RazoRock",
-        "model": "100% Natural Handmade Aftershave Wax 60ml"
+        "model": "100% Natural Handmade Aftershave Wax"
       },
       "4.5g Styptic Pencil in Plastic Case": {
         "brand": "RazoRock",
-        "model": "4.5g Styptic Pencil in Plastic Case"
+        "model": "Styptic Pencil"
       },
       "400 Plissoft Synthetic Shaving Brush - Glossy Black Handle": {
         "brand": "RazoRock",
-        "model": "400 Plissoft Synthetic Shaving Brush - Glossy Black Handle"
+        "model": "400 Plissoft Synthetic Shaving Brush"
       },
       "400 Plissoft Synthetic Shaving Brush - Matte Black Handle": {
         "brand": "RazoRock",
-        "model": "400 Plissoft Synthetic Shaving Brush - Matte Black Handle"
+        "model": "400 Plissoft Synthetic Shaving Brush"
       },
       "400 Plissoft Synthetic Shaving Brush - Silver Handle": {
         "brand": "RazoRock",
-        "model": "400 Plissoft Synthetic Shaving Brush - Silver Handle"
+        "model": "400 Plissoft Synthetic Shaving Brush"
       },
       "400 Synthetic Shaving Brush - with Noir Plissoft Knot": {
         "brand": "RazoRock",
-        "model": "400 Synthetic Shaving Brush - with Noir Plissoft Knot"
+        "model": "400 Synthetic Shaving Brush"
       },
       "60g Alum Stick": {
         "brand": "RazoRock",
-        "model": "60g Alum Stick"
+        "model": "Alum Stick"
       },
       "888 Eucalyptus And Tea Tree Aftershave Lotion Splash": {
         "brand": "RazoRock",
@@ -15795,11 +15695,11 @@
       },
       "ACQUA After Shaving Splash": {
         "brand": "RazoRock",
-        "model": "ACQUA After Shaving Splash"
+        "model": "Acqua After Shaving Splash"
       },
       "ALL TITANIUM Baby Smooth DE Safety Razor - CNC Milled": {
         "brand": "RazoRock",
-        "model": "ALL TITANIUM Baby Smooth DE Safety Razor - CNC Milled"
+        "model": "ALL TITANIUM Baby Smooth DE Safety Razor"
       },
       "Acqua Shaving Cream Soap": {
         "brand": "RazoRock",
@@ -15811,7 +15711,7 @@
       },
       "After Shave Wax King Louis": {
         "brand": "RazoRock",
-        "model": "After Shave Wax King Louis"
+        "model": "King Louis After Shave Wax"
       },
       "After Signature Scent Aftershave Wax": {
         "brand": "RazoRock",
@@ -15819,15 +15719,15 @@
       },
       "AfterShave Wax Evil Eye": {
         "brand": "RazoRock",
-        "model": "AfterShave Wax Evil Eye"
+        "model": "Evil Eye AfterShave Wax"
       },
       "Aftershave Balm XXX": {
         "brand": "RazoRock",
-        "model": "Aftershave Balm XXX"
+        "model": "XXX Aftershave Balm"
       },
       "Aftershave Milk X": {
         "brand": "RazoRock",
-        "model": "Aftershave Milk X"
+        "model": "Milk X Aftershave"
       },
       "Aftershave Wax": {
         "brand": "RazoRock",
@@ -15835,15 +15735,15 @@
       },
       "Aftershave Wax 888": {
         "brand": "RazoRock",
-        "model": "Aftershave Wax 888"
+        "model": "888 Eucalyptus and Tea Tree Aftershave Wax"
       },
       "Aftershave Wax, 888 Eucalyptus and Tea Tree": {
         "brand": "RazoRock",
-        "model": "Aftershave Wax, 888 Eucalyptus and Tea Tree"
+        "model": "888 Eucalyptus and Tea Tree Aftershave Wax"
       },
       "Aftershave Wax, King Louis Lavender": {
         "brand": "RazoRock",
-        "model": "Aftershave Wax, King Louis Lavender"
+        "model": "King Louis Lavender Aftershave Wax"
       },
       "Al Sapone After Shaving Splash": {
         "brand": "RazoRock",
@@ -15853,13 +15753,9 @@
         "brand": "RazoRock",
         "model": "Al Sapone Italian Shaving Soap"
       },
-      "Al Sapone Shaving Soap & After Shaving Splash - Bundle": {
-        "brand": "RazoRock",
-        "model": "Al Sapone Shaving Soap & After Shaving Splash - Bundle"
-      },
       "Alum Block With Plastic Travel Container": {
         "brand": "RazoRock",
-        "model": "Alum Block With Plastic Travel Container"
+        "model": "Alum Block"
       },
       "Alum Stick": {
         "brand": "RazoRock",
@@ -15867,7 +15763,7 @@
       },
       "Alum Stick 60g": {
         "brand": "RazoRock",
-        "model": "Alum Stick 60g"
+        "model": "Alum Stick"
       },
       "American Barber After Shaving Splash": {
         "brand": "RazoRock",
@@ -15879,15 +15775,15 @@
       },
       "Artisan Lime Glycerin Pre Shave Soap, 100g": {
         "brand": "RazoRock",
-        "model": "Artisan Lime Glycerin Pre Shave Soap, 100g"
+        "model": "Artisan Lime Glycerin Pre Shave Soap"
       },
       "BARBER HANDLE Plissoft Synthetic Shaving Brush": {
         "brand": "RazoRock",
-        "model": "BARBER HANDLE Plissoft Synthetic Shaving Brush"
+        "model": "Plissoft Synthetic Shaving Brush"
       },
       "BC Silvertip Plissoft Synthetic Shaving Brush": {
         "brand": "RazoRock",
-        "model": "BC Silvertip Plissoft Synthetic Shaving Brush"
+        "model": "Silvertip Plissoft Synthetic Shaving Brush"
       },
       "BLACK HAWK Single Edge Razor - V2": {
         "brand": "RazoRock",
@@ -15895,7 +15791,7 @@
       },
       "Baby Blue After Shaving Splash -  400ml Glass Bottle": {
         "brand": "RazoRock",
-        "model": "Baby Blue After Shaving Splash -  400ml Glass Bottle"
+        "model": "Baby Blue After Shaving Splash"
       },
       "Baby Smooth Double Edge Safety Razor": {
         "brand": "RazoRock",
@@ -15903,11 +15799,11 @@
       },
       "Barber Pole DE Safety Razor with Stainless Steel Handle": {
         "brand": "RazoRock",
-        "model": "Barber Pole DE Safety Razor with Stainless Steel Handle"
+        "model": "Barber Pole DE Safety Razor"
       },
       "Beach! Artisan Shaving Soap - A collaboration between Phoenix Artisan Accoutrements & Italian Barber": {
         "brand": "RazoRock",
-        "model": "Beach! Artisan Shaving Soap - A collaboration between Phoenix Artisan Accoutrements & Italian Barber"
+        "model": "Beach! Artisan Shaving Soap"
       },
       "Black Mamba DE Safety Razor with UberGlide™ Coating": {
         "brand": "RazoRock",
@@ -15915,7 +15811,7 @@
       },
       "Black Mamba DE Safety Razor with UberGlide™ Coating - OSS Handle Version": {
         "brand": "RazoRock",
-        "model": "Black Mamba DE Safety Razor with UberGlide™ Coating - OSS Handle Version"
+        "model": "Black Mamba DE Safety Razor with UberGlide™ Coating"
       },
       "Blasted Stainless Steel HALO Handle - DLC coated (Matte)": {
         "brand": "RazoRock",
