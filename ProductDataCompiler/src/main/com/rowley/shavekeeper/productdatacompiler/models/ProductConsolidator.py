@@ -32,10 +32,22 @@ class ProductConsolidator:
         """Internal method to abstract adding a new item to an existing map. To avoid
         duplication we first check whether a brand, then a model already exists and skips
         adding the item."""
-        if item.brand not in product_map:
-            product_map[item.brand] = {}
-        if item.model not in product_map[item.brand]:
-            product_map[item.brand][item.model] = item
+        brand = ""
+        model = ""
+        try:
+            brand = item.brand
+        except AttributeError:
+            brand = item["brand"]
+
+        try:
+            model = item.model
+        except AttributeError:
+            model = item["model"]
+
+        if brand not in product_map:
+            product_map[brand] = {}
+        if model not in product_map[brand]:
+            product_map[brand][model] = item
 
     def add_pre_shave(self, pre_shave=ProductModels.PostShave):
         """Add a PreShave to the ProductConsolidator. If this preshave, determined by
