@@ -22035,7 +22035,7 @@
     "Valobra": {
       "Almond Shaving Cream Soap 150g": {
         "brand": "Valobra",
-        "model": "Almond Shaving Cream Soap 150g"
+        "model": "Almond Shaving Cream Soap"
       },
       "Almond Soft Shave Cream Soap": {
         "brand": "Valobra",
@@ -22043,7 +22043,7 @@
       },
       "Menthol Shaving Cream Soap 150g": {
         "brand": "Valobra",
-        "model": "Menthol Shaving Cream Soap 150g"
+        "model": "Menthol Shaving Cream Soap"
       },
       "Menthol Soft Shave Cream Soap": {
         "brand": "Valobra",
@@ -22055,75 +22055,69 @@
       },
       "Shaving Soap Fougere Frangrance": {
         "brand": "Valobra",
-        "model": "Shaving Soap Fougere Frangrance"
+        "model": "Fougere Shaving Soap"
       },
       "Shaving Soap In Bowl - Cologne": {
         "brand": "Valobra",
-        "model": "Shaving Soap In Bowl - Cologne"
+        "model": "Cologne Shaving Soap"
       },
       "Shaving Soap In Bowl - Fougere": {
         "brand": "Valobra",
-        "model": "Shaving Soap In Bowl - Fougere"
+        "model": "Fougere Shaving Soap"
       },
       "Shaving Soap In Bowl - Patchouly": {
         "brand": "Valobra",
-        "model": "Shaving Soap In Bowl - Patchouly"
+        "model": "Patchouly Shaving Soap"
       },
       "Shaving Soap In Bowl - Unscented": {
         "brand": "Valobra",
-        "model": "Shaving Soap In Bowl - Unscented"
+        "model": "Unscented Shaving Soap"
       },
       "Shaving Soap Patchouly Fragrance": {
         "brand": "Valobra",
-        "model": "Shaving Soap Patchouly Fragrance"
+        "model": "Patchouly Shaving Soap"
       },
       "Shaving Soap, Cologne": {
         "brand": "Valobra",
-        "model": "Shaving Soap, Cologne"
+        "model": "Cologne Shaving Soap"
       },
       "Shaving Soap, Unscented": {
         "brand": "Valobra",
-        "model": "Shaving Soap, Unscented"
+        "model": "Unscented Shaving Soap"
       },
       "Shaving Stick 50g": {
         "brand": "Valobra",
-        "model": "Shaving Stick 50g"
-      }
-    },
-    "Various": {
-      "The Fantastic Four - Four Steps for a Fabulous Face": {
-        "brand": "Various",
-        "model": "The Fantastic Four - Four Steps for a Fabulous Face"
+        "model": "Shaving Stick"
       }
     },
     "Vie Long": {
       "VIE-LONG AMERICAN STYLE WHITE HORSE HAIR SHAVING BRUSH": {
         "brand": "Vie Long",
-        "model": "VIE-LONG AMERICAN STYLE WHITE HORSE HAIR SHAVING BRUSH"
+        "model": "American Style White Horse Hair Shaving Brush"
       },
       "VIE-LONG CACHURRO PROFESSIONAL HORSE HAIR SHAVING BRUSH, METAL/WOOD HANDLE": {
-        "brand": "Vie Long",
-        "model": "VIE-LONG CACHURRO PROFESSIONAL HORSE HAIR SHAVING BRUSH, METAL/WOOD HANDLE"
+        "brand": "Vie-Long",
+        "model": "Cachurro Professional Horse Hair Shaving Brush"
       },
       "VIE-LONG HORSE HAIR SHAVING BRUSH, DARK WOOD HANDLE": {
-        "brand": "Vie Long",
-        "model": "VIE-LONG HORSE HAIR SHAVING BRUSH, DARK WOOD HANDLE"
+        "brand": "Vie-Long",
+        "model": "Horse Hair Shaving Brush"
       },
       "Vie-Long 12601 Horse Hair Shaving Brush, Cream Handle": {
-        "brand": "Vie Long",
-        "model": "Vie-Long 12601 Horse Hair Shaving Brush, Cream Handle"
+        "brand": "Vie-Long",
+        "model": "12601 Horse Hair Shaving Brush"
       },
       "Vie-Long 14080 Horse Hair Shaving Brush, Red/White Acrylic Handle": {
-        "brand": "Vie Long",
-        "model": "Vie-Long 14080 Horse Hair Shaving Brush, Red/White Acrylic Handle"
+        "brand": "Vie-Long",
+        "model": "14080 Horse Hair Shaving Brush"
       },
       "Vie-Long Horse Hair Shaving Brush, Brown/Clear Acrylic Handle - 130521": {
-        "brand": "Vie Long",
-        "model": "Vie-Long Horse Hair Shaving Brush, Brown/Clear Acrylic Handle - 130521"
+        "brand": "Vie-Long",
+        "model": "130521 Horse Hair Shaving Brush"
       },
       "Vie-Long Peleón Horse Hair Shaving Brush, Red Handle 12705": {
-        "brand": "Vie Long",
-        "model": "Vie-Long Peleón Horse Hair Shaving Brush, Red Handle 12705"
+        "brand": "Vie-Long",
+        "model": "12705 Peleón Horse Hair Shaving Brush"
       }
     },
     "Vie-Long": {
@@ -22133,87 +22127,87 @@
       },
       "12750 Horse Hair Shaving Brush, Butterscotch": {
         "brand": "Vie-Long",
-        "model": "12750 Horse Hair Shaving Brush, Butterscotch"
+        "model": "12750 Horse Hair Shaving Brush"
       },
       "13052 Horse Hair Shaving Brush, Brown/Clear Acrylic Handle": {
         "brand": "Vie-Long",
-        "model": "13052 Horse Hair Shaving Brush, Brown/Clear Acrylic Handle"
+        "model": "13052 Horse Hair Shaving Brush"
       },
       "13070 Horse Hair Shaving Brush, Wood Handle": {
         "brand": "Vie-Long",
-        "model": "13070 Horse Hair Shaving Brush, Wood Handle"
+        "model": "13070 Horse Hair Shaving Brush"
       },
       "14030 Horse Hair Shaving Brush, Ivory & Silver": {
         "brand": "Vie-Long",
-        "model": "14030 Horse Hair Shaving Brush, Ivory & Silver"
+        "model": "14030 Horse Hair Shaving Brush"
       },
       "14080 Horse Hair Shaving Brush, Red/White Acrylic Handle": {
         "brand": "Vie-Long",
-        "model": "14080 Horse Hair Shaving Brush, Red/White Acrylic Handle"
+        "model": "14080 Horse Hair Shaving Brush"
       },
       "15830 Horse Hair Shaving Brush, Dark Red Wood Handle": {
         "brand": "Vie-Long",
-        "model": "15830 Horse Hair Shaving Brush, Dark Red Wood Handle"
+        "model": "15830 Horse Hair Shaving Brush"
       },
       "Cachurro Professional Horse Hair Shaving Brush - Nickel & Hardwood Handle": {
         "brand": "Vie-Long",
-        "model": "Cachurro Professional Horse Hair Shaving Brush - Nickel & Hardwood Handle"
+        "model": "Cachurro Professional Horse Hair Shaving Brush"
       },
       "Horse Hair Shaving Brush - Acrylic Butterscotch Handle": {
         "brand": "Vie-Long",
-        "model": "Horse Hair Shaving Brush - Acrylic Butterscotch Handle"
+        "model": "Horse Hair Shaving Brush"
       },
       "Horse Hair Shaving Brush - Auburn & White Acrylic Handle": {
         "brand": "Vie-Long",
-        "model": "Horse Hair Shaving Brush - Auburn & White Acrylic Handle"
+        "model": "Horse Hair Shaving Brush"
       },
       "Horse Hair Shaving Brush - Deep Red Wood Handle": {
         "brand": "Vie-Long",
-        "model": "Horse Hair Shaving Brush - Deep Red Wood Handle"
+        "model": "Horse Hair Shaving Brush"
       },
       "Horse Hair Shaving Brush - Olivewood Handle": {
         "brand": "Vie-Long",
-        "model": "Horse Hair Shaving Brush - Olivewood Handle"
+        "model": "Horse Hair Shaving Brush"
       },
       "Horse Hair Shaving Brush 12601": {
         "brand": "Vie-Long",
-        "model": "Horse Hair Shaving Brush 12601"
+        "model": "12601 Horse Hair Shaving Brush"
       },
       "Horse Hair Shaving Brush 12603": {
         "brand": "Vie-Long",
-        "model": "Horse Hair Shaving Brush 12603"
+        "model": "12603 Horse Hair Shaving Brush"
       },
       "Horse Hair Shaving Brush 12705": {
         "brand": "Vie-Long",
-        "model": "Horse Hair Shaving Brush 12705"
+        "model": "12705 Horse Hair Shaving Brush"
       },
       "Horse Hair Shaving Brush 13710": {
         "brand": "Vie-Long",
-        "model": "Horse Hair Shaving Brush 13710"
+        "model": "13710 Horse Hair Shaving Brush"
       },
       "Professional Black Horse Hair Extra Shaving Brush 4211": {
         "brand": "Vie-Long",
-        "model": "Professional Black Horse Hair Extra Shaving Brush 4211"
+        "model": "4211 Professional Black Horse Hair Extra Shaving Brush"
       },
       "Professional Black Horse Hair Extra Shaving Brush 4212": {
         "brand": "Vie-Long",
-        "model": "Professional Black Horse Hair Extra Shaving Brush 4212"
+        "model": "4212 Professional Black Horse Hair Extra Shaving Brush"
       },
       "Professional Brown Horse Hair Extra Shaving Brush 4311": {
         "brand": "Vie-Long",
-        "model": "Professional Brown Horse Hair Extra Shaving Brush 4311"
+        "model": "4311 Professional Brown Horse Hair Extra Shaving Brush"
       },
       "Professional Brown Horse Hair Extra Shaving Brush 4312": {
         "brand": "Vie-Long",
-        "model": "Professional Brown Horse Hair Extra Shaving Brush 4312"
+        "model": "4312 Professional Brown Horse Hair Extra Shaving Brush"
       },
       "Professional White Horse Hair/Boar Bristle Brush 4101": {
         "brand": "Vie-Long",
-        "model": "Professional White Horse Hair/Boar Bristle Brush 4101"
+        "model": "4101 Professional White Horse Hair/Boar Bristle Brush"
       },
       "Professional White Horse Hair/Boar Bristle Brush 4102": {
         "brand": "Vie-Long",
-        "model": "Professional White Horse Hair/Boar Bristle Brush 4102"
+        "model": "4102 Professional White Horse Hair/Boar Bristle Brush"
       }
     },
     "Vijay": {
@@ -22231,11 +22225,11 @@
     "Village Barber": {
       "100% Pure & Natural Shaving Oil, 100ml": {
         "brand": "Village Barber",
-        "model": "100% Pure & Natural Shaving Oil, 100ml"
+        "model": "100% Pure & Natural Shaving Oil"
       },
       "Aftershave Balm, 125ml": {
         "brand": "Village Barber",
-        "model": "Aftershave Balm, 125ml"
+        "model": "Aftershave Balm"
       },
       "Shaving Balm Post Shave Skin Food": {
         "brand": "Village Barber",
@@ -22244,76 +22238,68 @@
       "Shaving Oil": {
         "brand": "Village Barber",
         "model": "Shaving Oil"
-      },
-      "The Travel Pack": {
-        "brand": "Village Barber",
-        "model": "The Travel Pack"
-      },
-      "Travel Pack": {
-        "brand": "Village Barber",
-        "model": "Travel Pack"
       }
     },
     "Visconte di Modrone": {
       "Acqua di Selva Aftershave Splash 100 ml": {
         "brand": "Visconte di Modrone",
-        "model": "Acqua di Selva Aftershave Splash 100 ml"
+        "model": "Acqua di Selva Aftershave Splash"
       },
       "Acqua di Selva Cologne Spray 100 ml": {
         "brand": "Visconte di Modrone",
-        "model": "Acqua di Selva Cologne Spray 100 ml"
+        "model": "Acqua di Selva Cologne Spray"
       }
     },
     "Vitos - Susan Darnell": {
       "Vitos Aftershave Moisturizing Anti Age with Shea Butter 100ml": {
         "brand": "Vitos - Susan Darnell",
-        "model": "Vitos Aftershave Moisturizing Anti Age with Shea Butter 100ml"
+        "model": "Aftershave Moisturizing Anti Age with Shea Butter"
       },
       "Vitos Aftershave Splash - Large 400ml Barber Sized Bottle": {
         "brand": "Vitos - Susan Darnell",
-        "model": "Vitos Aftershave Splash - Large 400ml Barber Sized Bottle"
+        "model": "Aftershave Splash"
       },
       "Vitos Classic Eucalyptus and Lanolin Shave Cream Tube 500ml": {
         "brand": "Vitos - Susan Darnell",
-        "model": "Vitos Classic Eucalyptus and Lanolin Shave Cream Tube 500ml"
+        "model": "Classic Eucalyptus and Lanolin Shave Cream"
       },
       "Vitos Colonia Aftershave 1000ml - Mentolo (Menthol)": {
         "brand": "Vitos - Susan Darnell",
-        "model": "Vitos Colonia Aftershave 1000ml - Mentolo (Menthol)"
+        "model": "Mentolo (Menthol) Colonia Aftershave"
       },
       "Vitos Colonia Aftershave 500ml - Lavanda (Lavender)": {
         "brand": "Vitos - Susan Darnell",
-        "model": "Vitos Colonia Aftershave 500ml - Lavanda (Lavender)"
+        "model": "Lavanda (Lavender) Colonia Aftershave"
       },
       "Vitos Extra Super Shave Cream 1000ml - All'Olio di Cocco": {
         "brand": "Vitos - Susan Darnell",
-        "model": "Vitos Extra Super Shave Cream 1000ml - All'Olio di Cocco"
+        "model": "All'Olio di Cocco Extra Super Shave Cream"
       },
       "Vitos Menthol Brushless Shave Cream 250ml": {
         "brand": "Vitos - Susan Darnell",
-        "model": "Vitos Menthol Brushless Shave Cream 250ml"
+        "model": "Menthol Brushless Shave Cream"
       },
       "Vitos Menthol Brushless Shave Cream 500ml": {
         "brand": "Vitos - Susan Darnell",
-        "model": "Vitos Menthol Brushless Shave Cream 500ml"
+        "model": "Menthol Brushless Shave Cream"
       },
       "Vitos Menthol Pre & Post Cream 100ml Jar": {
         "brand": "Vitos - Susan Darnell",
-        "model": "Vitos Menthol Pre & Post Cream 100ml Jar"
+        "model": "Menthol Pre & Post Cream"
       },
       "Vitos Menthol Pre & Post Cream 250ml Jar": {
         "brand": "Vitos - Susan Darnell",
-        "model": "Vitos Menthol Pre & Post Cream 250ml Jar"
+        "model": "Menthol Pre & Post Cream"
       }
     },
     "Voskhod": {
       "10 Teflon Coated DE Blades, 2 packs of 5 (10 blades)": {
         "brand": "Voskhod",
-        "model": "10 Teflon Coated DE Blades, 2 packs of 5 (10 blades)"
+        "model": "Teflon Coated"
       },
       "100 Teflon Coated DE Blades, 20 packs of 5 (100 blades)": {
         "brand": "Voskhod",
-        "model": "100 Teflon Coated DE Blades, 20 packs of 5 (100 blades)"
+        "model": "Teflon Coated"
       },
       "Teflon Coated": {
         "brand": "Voskhod",
@@ -22321,169 +22307,169 @@
       },
       "Teflon Coated DE Blades 100ct": {
         "brand": "Voskhod",
-        "model": "Teflon Coated DE Blades 100ct"
+        "model": "Teflon Coated"
       },
       "Teflon Coated DE Blades 5Pk": {
         "brand": "Voskhod",
-        "model": "Teflon Coated DE Blades 5Pk"
+        "model": "Teflon Coated"
       }
     },
     "Vulfix": {
       "#1016 Pure Badger Shaving Brush - Faux Ivory Resin": {
         "brand": "Vulfix",
-        "model": "#1016 Pure Badger Shaving Brush - Faux Ivory Resin"
+        "model": "#1016 Pure Badger Shaving Brush"
       },
       "#2197 Pure Badger Shaving Brush - Faux Ivory Resin": {
         "brand": "Vulfix",
-        "model": "#2197 Pure Badger Shaving Brush - Faux Ivory Resin"
+        "model": "#2197 Pure Badger Shaving Brush"
       },
       "#2198 Pure Badger Shaving Brush - Faux Ivory Resin": {
         "brand": "Vulfix",
-        "model": "#2198 Pure Badger Shaving Brush - Faux Ivory Resin"
+        "model": "#2198 Pure Badger Shaving Brush"
       },
       "#374 Super Badger Shaving Brush - Resin": {
         "brand": "Vulfix",
-        "model": "#374 Super Badger Shaving Brush - Resin"
+        "model": "#374 Super Badger Shaving Brush"
       },
       "#375 Super Badger Shaving Brush - Resin": {
         "brand": "Vulfix",
-        "model": "#375 Super Badger Shaving Brush - Resin"
+        "model": "#375 Super Badger Shaving Brush"
       },
       "#376 Super Badger Shaving Brush - Faux Ivory Resin": {
         "brand": "Vulfix",
-        "model": "#376 Super Badger Shaving Brush - Faux Ivory Resin"
+        "model": "#376 Super Badger Shaving Brush"
       },
       "#41 Super Badger Shaving Brush - Faux Ivory Resin": {
         "brand": "Vulfix",
-        "model": "#41 Super Badger Shaving Brush - Faux Ivory Resin"
+        "model": "#41 Super Badger Shaving Brush"
       },
       "1000 Dark Badger Shaving Brush - Ivory": {
         "brand": "Vulfix",
-        "model": "1000 Dark Badger Shaving Brush - Ivory"
+        "model": "#1000 Dark Badger Shaving Brush"
       },
       "1000A Pure Badger Shaving Brush - Ebony": {
         "brand": "Vulfix",
-        "model": "1000A Pure Badger Shaving Brush - Ebony"
+        "model": "#1000A Pure Badger Shaving Brush"
       },
       "1000A Pure Badger Shaving Brush - Ivory": {
         "brand": "Vulfix",
-        "model": "1000A Pure Badger Shaving Brush - Ivory"
+        "model": "#1000A Pure Badger Shaving Brush"
       },
       "1000A Pure Badger Shaving Brush, Faux Ebony": {
         "brand": "Vulfix",
-        "model": "1000A Pure Badger Shaving Brush, Faux Ebony"
+        "model": "#1000A Pure Badger Shaving Brush"
       },
       "1000A Pure Badger Shaving Brush, Faux Ivory": {
         "brand": "Vulfix",
-        "model": "1000A Pure Badger Shaving Brush, Faux Ivory"
+        "model": "#1000A Pure Badger Shaving Brush"
       },
       "1001 Dark Badger Shaving Brush - Ebony": {
         "brand": "Vulfix",
-        "model": "1001 Dark Badger Shaving Brush - Ebony"
+        "model": "#1001 Dark Badger Shaving Brush"
       },
       "1016 Pure Badger Shaving Brush": {
         "brand": "Vulfix",
-        "model": "1016 Pure Badger Shaving Brush"
+        "model": "#1016 Pure Badger Shaving Brush"
       },
       "2006 Pure Badger Shaving Brush - Ivory": {
         "brand": "Vulfix",
-        "model": "2006 Pure Badger Shaving Brush - Ivory"
+        "model": "#2006 Pure Badger Shaving Brush"
       },
       "2233S Super Badger Shaving Brush": {
         "brand": "Vulfix",
-        "model": "2233S Super Badger Shaving Brush"
+        "model": "#2233S Super Badger Shaving Brush"
       },
       "2234S Super Badger Shaving Brush": {
         "brand": "Vulfix",
-        "model": "2234S Super Badger Shaving Brush"
+        "model": "#2234S Super Badger Shaving Brush"
       },
       "2236S Super Badger Shaving Brush": {
         "brand": "Vulfix",
-        "model": "2236S Super Badger Shaving Brush"
+        "model": "#2236S Super Badger Shaving Brush"
       },
       "28 Pure Boar Bristle Shaving Brush": {
         "brand": "Vulfix",
-        "model": "28 Pure Boar Bristle Shaving Brush"
+        "model": "#28 Pure Boar Bristle Shaving Brush"
       },
       "375S Super Badger Shaving Brush": {
         "brand": "Vulfix",
-        "model": "375S Super Badger Shaving Brush"
+        "model": "#375S Super Badger Shaving Brush"
       },
       "375S Super Badger Shaving Brush, Imitation Ebony Handle": {
         "brand": "Vulfix",
-        "model": "375S Super Badger Shaving Brush, Imitation Ebony Handle"
+        "model": "#375S Super Badger Shaving Brush"
       },
       "376S Super Badger Shaving Brush": {
         "brand": "Vulfix",
-        "model": "376S Super Badger Shaving Brush"
+        "model": "#376S Super Badger Shaving Brush"
       },
       "403B Pure Badger Shaving Brush": {
         "brand": "Vulfix",
-        "model": "403B Pure Badger Shaving Brush"
+        "model": "#403B Pure Badger Shaving Brush"
       },
       "404 Grosvenor Mixed Badger/Boar Shaving Brush - Ivory": {
         "brand": "Vulfix",
-        "model": "404 Grosvenor Mixed Badger/Boar Shaving Brush - Ivory"
+        "model": "#404 Grosvenor Mixed Badger/Boar Shaving Brush"
       },
       "404B Pure Badger Shaving Brush": {
         "brand": "Vulfix",
-        "model": "404B Pure Badger Shaving Brush"
+        "model": "#404B Pure Badger Shaving Brush"
       },
       "405B Pure Badger Shaving Brush": {
         "brand": "Vulfix",
-        "model": "405B Pure Badger Shaving Brush"
+        "model": "#405B Pure Badger Shaving Brush"
       },
       "406B Pure Badger Shaving Brush": {
         "brand": "Vulfix",
-        "model": "406B Pure Badger Shaving Brush"
+        "model": "#406B Pure Badger Shaving Brush"
       },
       "660S Large Super Badger Shaving Brush": {
         "brand": "Vulfix",
-        "model": "660S Large Super Badger Shaving Brush"
+        "model": "#660S Large Super Badger Shaving Brush"
       },
       "660S Medium Super Badger Shaving Brush": {
         "brand": "Vulfix",
-        "model": "660S Medium Super Badger Shaving Brush"
+        "model": "#660S Medium Super Badger Shaving Brush"
       },
       "660S Medium Super Badger Shaving Brush - Ivory": {
         "brand": "Vulfix",
-        "model": "660S Medium Super Badger Shaving Brush - Ivory"
+        "model": "#660S Medium Super Badger Shaving Brush"
       },
       "Luxury English Rose Shaving Cream": {
         "brand": "Vulfix",
-        "model": "Luxury English Rose Shaving Cream"
+        "model": "English Rose Luxury Shaving Cream"
       },
       "Luxury Lavender Shaving Cream": {
         "brand": "Vulfix",
-        "model": "Luxury Lavender Shaving Cream"
+        "model": "Lavender Luxury Shaving Cream"
       },
       "Luxury Persian Musk Shaving Cream": {
         "brand": "Vulfix",
-        "model": "Luxury Persian Musk Shaving Cream"
+        "model": "Persian Musk Luxury Shaving Cream"
       },
       "Luxury Sandalwood Shaving Cream": {
         "brand": "Vulfix",
-        "model": "Luxury Sandalwood Shaving Cream"
+        "model": "Sandalwood Luxury Shaving Cream"
       },
       "Luxury Sicilian Lime Shaving Cream": {
         "brand": "Vulfix",
-        "model": "Luxury Sicilian Lime Shaving Cream"
+        "model": "Sicilian Lime Luxury Shaving Cream"
       },
       "Progress Badger & Boar Brush Black Handle": {
         "brand": "Vulfix",
-        "model": "Progress Badger & Boar Brush Black Handle"
+        "model": "Progress Badger & Boar Brush"
       },
       "Pure Badger Brush Ivory Handle": {
         "brand": "Vulfix",
-        "model": "Pure Badger Brush Ivory Handle"
+        "model": "Pure Badger Brush"
       },
       "Super Badger Style 2 Shaving Brush, Black Handle": {
         "brand": "Vulfix",
-        "model": "Super Badger Style 2 Shaving Brush, Black Handle"
+        "model": "Super Badger Style 2 Shaving Brush"
       },
       "Super Badger Travel Brush & Tube": {
         "brand": "Vulfix",
-        "model": "Super Badger Travel Brush & Tube"
+        "model": "Super Badger Travel Brush"
       },
       "Turnback Super Badger Travel Brush": {
         "brand": "Vulfix",
@@ -22491,25 +22477,25 @@
       },
       "VS/2 Pure Bristle Shaving Brush - Faux Ivory Resin": {
         "brand": "Vulfix",
-        "model": "VS/2 Pure Bristle Shaving Brush - Faux Ivory Resin"
+        "model": "VS/2 Pure Bristle Shaving Brush"
       },
       "VS/5 Pure Bristle Shaving Brush - Faux Ivory Resin": {
         "brand": "Vulfix",
-        "model": "VS/5 Pure Bristle Shaving Brush - Faux Ivory Resin"
+        "model": "VS/5 Pure Bristle Shaving Brush"
       }
     },
     "WILKINSON": {
       "Wilkinson Sword Classic DE Blades 100ct": {
-        "brand": "WILKINSON",
-        "model": "Wilkinson Sword Classic DE Blades 100ct"
+        "brand": "Wilkinson",
+        "model": "Sword Classic"
       },
       "Wilkinson Sword DE Blades 100ct": {
-        "brand": "WILKINSON",
-        "model": "Wilkinson Sword DE Blades 100ct"
+        "brand": "Wilkinson",
+        "model": "Sword"
       },
       "Wilkinson Sword DE Blades 5Pk.": {
-        "brand": "WILKINSON",
-        "model": "Wilkinson Sword DE Blades 5Pk."
+        "brand": "Wilkinson",
+        "model": "Sword"
       }
     },
     "Wacker": {
@@ -22519,11 +22505,11 @@
       },
       "7 Day Straight Razor Set with Display Box": {
         "brand": "Wacker",
-        "model": "7 Day Straight Razor Set with Display Box"
+        "model": "7 Day Straight Razor Set"
       },
       "7 Day Straight Razor Set with Wooden Display Case": {
         "brand": "Wacker",
-        "model": "7 Day Straight Razor Set with Wooden Display Case"
+        "model": "7 Day Straight Razor Set"
       },
       "Allround 6/8\" Full Hollow Silver Steel Straight Razor - Buffalo Horn": {
         "brand": "Wacker",
@@ -22553,7 +22539,7 @@
     "Weishi": {
       "Gunmetal Butterfly Double Edge Safety Razor in Case": {
         "brand": "Weishi",
-        "model": "Gunmetal Butterfly Double Edge Safety Razor in Case"
+        "model": "Butterfly Double Edge Safety Razor"
       }
     },
     "West Coast Shaving": {
@@ -22593,65 +22579,37 @@
         "brand": "West Coast Shaving",
         "model": "#9 Denali Shaving Soap"
       },
-      "Aftershave Balm Best Sellers Sample Pack": {
-        "brand": "West Coast Shaving",
-        "model": "Aftershave Balm Best Sellers Sample Pack"
-      },
-      "Artisan Shaving Cream Sample Pack": {
-        "brand": "West Coast Shaving",
-        "model": "Artisan Shaving Cream Sample Pack"
-      },
       "Beacon Black Synthetic Shaving Brush, Black": {
         "brand": "West Coast Shaving",
-        "model": "Beacon Black Synthetic Shaving Brush, Black"
+        "model": "Beacon Black Synthetic Shaving Brush"
       },
       "Beacon Shaving Brush, Pure Badger, Black": {
         "brand": "West Coast Shaving",
-        "model": "Beacon Shaving Brush, Pure Badger, Black"
+        "model": "Beacon Pure Badger Shaving Brush"
       },
       "Beacon Shaving Brush, Pure Badger, Ivory": {
         "brand": "West Coast Shaving",
-        "model": "Beacon Shaving Brush, Pure Badger, Ivory"
+        "model": "Beacon Pure Badger Shaving Brush"
       },
       "Beacon Shaving Brush, Silvertip, Black": {
         "brand": "West Coast Shaving",
-        "model": "Beacon Shaving Brush, Silvertip, Black"
+        "model": "Beacon Silvertip Shaving Brush"
       },
       "Beacon Shaving Brush, Silvertip, Ivory": {
         "brand": "West Coast Shaving",
-        "model": "Beacon Shaving Brush, Silvertip, Ivory"
+        "model": "Beacon Silvertip Shaving Brush"
       },
       "Beacon Shaving Brush, Synthetic, Black": {
         "brand": "West Coast Shaving",
-        "model": "Beacon Shaving Brush, Synthetic, Black"
+        "model": "Beacon Synthetic Shaving Brush"
       },
       "Beacon Shaving Brush, Synthetic, Ivory": {
         "brand": "West Coast Shaving",
-        "model": "Beacon Shaving Brush, Synthetic, Ivory"
-      },
-      "Best Seller Aftershave Sample Pack": {
-        "brand": "West Coast Shaving",
-        "model": "Best Seller Aftershave Sample Pack"
-      },
-      "Best Sellers Shaving Cream Sample Pack": {
-        "brand": "West Coast Shaving",
-        "model": "Best Sellers Shaving Cream Sample Pack"
-      },
-      "Citrus Shaving Cream Sample Pack": {
-        "brand": "West Coast Shaving",
-        "model": "Citrus Shaving Cream Sample Pack"
-      },
-      "Deux Artisan Sample Pack": {
-        "brand": "West Coast Shaving",
-        "model": "Deux Artisan Sample Pack"
+        "model": "Beacon Synthetic Shaving Brush"
       },
       "El Capitan CNC Safety Razor": {
         "brand": "West Coast Shaving",
         "model": "El Capitan CNC Safety Razor"
-      },
-      "Hand Thrown Shaving Scuttle, Two-Toned Blue": {
-        "brand": "West Coast Shaving",
-        "model": "Hand Thrown Shaving Scuttle, Two-Toned Blue"
       },
       "Hollywood Palm CNC Safety Razor": {
         "brand": "West Coast Shaving",
@@ -22663,47 +22621,27 @@
       },
       "Lantern Shaving Brush, Pure Badger, Black": {
         "brand": "West Coast Shaving",
-        "model": "Lantern Shaving Brush, Pure Badger, Black"
+        "model": "Lantern Pure Badger Shaving Brush"
       },
       "Lantern Shaving Brush, Pure Badger, Ivory": {
         "brand": "West Coast Shaving",
-        "model": "Lantern Shaving Brush, Pure Badger, Ivory"
+        "model": "Lantern Pure Badger Shaving Brush"
       },
       "Lantern Shaving Brush, Silvertip, Black": {
         "brand": "West Coast Shaving",
-        "model": "Lantern Shaving Brush, Silvertip, Black"
+        "model": "Lantern Silvertip Shaving Brush"
       },
       "Lantern Shaving Brush, Synthetic, Black": {
         "brand": "West Coast Shaving",
-        "model": "Lantern Shaving Brush, Synthetic, Black"
+        "model": "Lantern Silvertip Shaving Brush"
       },
       "Lantern Shaving Brush, Synthetic, Ivory": {
         "brand": "West Coast Shaving",
-        "model": "Lantern Shaving Brush, Synthetic, Ivory"
-      },
-      "Luxury Shaving Cream Sample Pack": {
-        "brand": "West Coast Shaving",
-        "model": "Luxury Shaving Cream Sample Pack"
-      },
-      "Menthol Cooling Aftershave Sample Pack": {
-        "brand": "West Coast Shaving",
-        "model": "Menthol Cooling Aftershave Sample Pack"
-      },
-      "Organic/Natural Shaving Cream Sample Pack": {
-        "brand": "West Coast Shaving",
-        "model": "Organic/Natural Shaving Cream Sample Pack"
-      },
-      "Outdoorsman Shaving Cream Sample Pack": {
-        "brand": "West Coast Shaving",
-        "model": "Outdoorsman Shaving Cream Sample Pack"
+        "model": "Lantern Silvertip Shaving Brush"
       },
       "Safety Razor, The Gentleman, Black and Gold": {
         "brand": "West Coast Shaving",
-        "model": "Safety Razor, The Gentleman, Black and Gold"
-      },
-      "Sandalwood Shaving Cream Sample Pack": {
-        "brand": "West Coast Shaving",
-        "model": "Sandalwood Shaving Cream Sample Pack"
+        "model": "The Gentleman Safety Razor"
       },
       "Space Needle CNC Safety Razor": {
         "brand": "West Coast Shaving",
@@ -22715,19 +22653,19 @@
       },
       "Torch Shaving Brush, Pure Badger, Tortoise": {
         "brand": "West Coast Shaving",
-        "model": "Torch Shaving Brush, Pure Badger, Tortoise"
+        "model": "Torch Pure Badger Shaving Brush"
       },
       "Torch Shaving Brush, Silvertip, Tortoise": {
         "brand": "West Coast Shaving",
-        "model": "Torch Shaving Brush, Silvertip, Tortoise"
+        "model": "Torch Silvertip Shaving Brush"
       },
       "Torch Shaving Brush, Synthetic, Tortoise": {
         "brand": "West Coast Shaving",
-        "model": "Torch Shaving Brush, Synthetic, Tortoise"
+        "model": "Torch Synthetic Shaving Brush"
       },
       "Tortoise Shell Straight Razor Kit": {
         "brand": "West Coast Shaving",
-        "model": "Tortoise Shell Straight Razor Kit"
+        "model": "Tortoise Shell Straight Razor"
       },
       "Venice CNC Safety Razor": {
         "brand": "West Coast Shaving",
@@ -22735,59 +22673,59 @@
       },
       "WCS Basics Alum Aftershave Bar": {
         "brand": "West Coast Shaving",
-        "model": "WCS Basics Alum Aftershave Bar"
+        "model": "Basics Alum Aftershave Bar"
       },
       "WCS Basics Alum Stick": {
         "brand": "West Coast Shaving",
-        "model": "WCS Basics Alum Stick"
+        "model": "Basics Alum Stick"
       },
       "WCS Classic Collection Razor 110S, Stainless Steel Closed Comb": {
         "brand": "West Coast Shaving",
-        "model": "WCS Classic Collection Razor 110S, Stainless Steel Closed Comb"
+        "model": "110S Classic Collection Razor, Closed Comb"
       },
       "WCS Classic Collection Razor 110S, Stainless Steel, Open Comb": {
         "brand": "West Coast Shaving",
-        "model": "WCS Classic Collection Razor 110S, Stainless Steel, Open Comb"
+        "model": "110S Classic Collection Razor 110S, Open Comb"
       },
       "WCS Classic Collection Razor 175S, Stainless Steel Closed Comb": {
         "brand": "West Coast Shaving",
-        "model": "WCS Classic Collection Razor 175S, Stainless Steel Closed Comb"
+        "model": "175S Classic Collection Razor, Closed Comb"
       },
       "WCS Classic Collection Razor 175S, Stainless Steel, Open Comb": {
         "brand": "West Coast Shaving",
-        "model": "WCS Classic Collection Razor 175S, Stainless Steel, Open Comb"
+        "model": "175S Classic Collection Razor, Open Comb"
       },
       "WCS Classic Collection Razor 77S, Stainless Steel, Closed Comb": {
         "brand": "West Coast Shaving",
-        "model": "WCS Classic Collection Razor 77S, Stainless Steel, Closed Comb"
+        "model": "77S Classic Collection Razor, Closed Comb"
       },
       "WCS Classic Collection Razor 77S, Stainless Steel, Open Comb": {
         "brand": "West Coast Shaving",
-        "model": "WCS Classic Collection Razor 77S, Stainless Steel, Open Comb"
+        "model": "77S Classic Collection Razor, Open Comb"
       },
       "WCS Classic Collection Razor 78S, Stainless Steel, Closed Comb": {
         "brand": "West Coast Shaving",
-        "model": "WCS Classic Collection Razor 78S, Stainless Steel, Closed Comb"
+        "model": "78S Classic Collection Razor, SClosed Comb"
       },
       "WCS Classic Collection Razor 78S, Stainless Steel, Open Comb": {
         "brand": "West Coast Shaving",
-        "model": "WCS Classic Collection Razor 78S, Stainless Steel, Open Comb"
+        "model": "78S Classic Collection Razor, Open Comb"
       },
       "WCS Classic Collection Razor 84S, Stainless Steel, Closed Comb": {
         "brand": "West Coast Shaving",
-        "model": "WCS Classic Collection Razor 84S, Stainless Steel, Closed Comb"
+        "model": "84S Classic Collection Razor, Closed Comb"
       },
       "WCS Classic Collection Razor 84S, Stainless Steel, Open Comb": {
         "brand": "West Coast Shaving",
-        "model": "WCS Classic Collection Razor 84S, Stainless Steel, Open Comb"
+        "model": "84S Classic Collection Razor, Open Comb"
       },
       "WCS Classic Collection Razor 88S, Stainless Steel Closed Comb": {
         "brand": "West Coast Shaving",
-        "model": "WCS Classic Collection Razor 88S, Stainless Steel Closed Comb"
+        "model": "88S Classic Collection Razor, Closed Comb"
       },
       "WCS Classic Collection Razor 88S, Stainless Steel, Open Comb": {
         "brand": "West Coast Shaving",
-        "model": "WCS Classic Collection Razor 88S, Stainless Steel, Open Comb"
+        "model": "88S Classic Collection Razor, Open Comb"
       },
       "WCS Midnight Collection Razor 110B, Black Stainless Steel Closed Comb": {
         "brand": "West Coast Shaving",
