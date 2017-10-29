@@ -3,10 +3,10 @@ from src.main.com.rowley.shavekeeper.productdatacompiler.models.ProductModelByBr
 from src.main.com.rowley.shavekeeper.productdatacompiler.web.FileHelper import load_consolidator, save_consolidator, \
     save_reconciler, load_file, save_file
 
-reconciled_json = load_file("Reconciler_Reconciled", "../compiled_files/")
+reconciled_json = load_file("Reconciler2_Reconciled", "../compiled_files/")
 reconciled = ProductModelByBrandMap.from_json(reconciled_json)
 
-consolidated_json = load_file("ConsolidatedProducts1", "../compiled_files/")
+consolidated_json = load_file("ConsolidatedProducts2", "../compiled_files/")
 base_consolidated = ProductConsolidator.from_json(consolidated_json)
 
 deduped = ProductConsolidator()
@@ -122,4 +122,4 @@ for brand in deduped.after_shaves:
 print "Total Pre: " + str(total_pre)
 print "Total Post: " + str(total_post)
 
-save_file(deduped, "ConsolidatedProducts2", "../compiled_files/")
+save_file(deduped, "ConsolidatedProducts3", "../compiled_files/")
